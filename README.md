@@ -1,19 +1,16 @@
-# ♂ Gitodipuro
+## Ringkas
 
-
-## Naskah sesuai buku silsilah.
+♂ Gitodipuro
+	<br/>
 
 *	Istri ke-1: ♀ Putri Mangunredjo
 	<br/><br/>
-
 *	Anak: A01. ♂ Gitosuwiryo
-
 *	Anak: A02. ♀ Hardopranoto
 	<br/><br/>
 
 *	Istri ke-2: ♀ Putri Kartodipuro
 	<br/><br/>
-
 *	Anak: A03. ♂ Gitosudirjo
 *	Anak: A04. ♀ Djoyopawoko
 *	Anak: A05. ♀ Sutopuspito
@@ -22,7 +19,6 @@
 
 *	Istri ke-3: ♀ dari Djuwangi
 	<br/><br/>
-
 *	Anak: A07. ♀ Surohatmojo
 *	Anak: A08. ♂ Kartohardjendro (ngusman)
 *	Anak: A09. ♂ Ruslan
@@ -32,7 +28,6 @@
 
 *	Istri ke-4: ♀ Putri dari Gagatan
 	<br/><br/>
-
 *	Anak: A12. ♂ Brototenoyo
 	<br/><br/>
 
@@ -40,9 +35,10 @@ Keterangan: Sebelum Eyang Gitodipuro kromo dengan isteri 1 s/d 4 beliau sebenarn
 
 -- -- --
 
-## Rincian.
+## Rinci
 
-Untuk memudahkan pencarian.
+♂ Gitodipuro
+	<br/>
 
 *	Istri 1: ♀ Putri dari Mangunredjo
 	<br/><br/>
