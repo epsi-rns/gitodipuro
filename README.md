@@ -44,11 +44,11 @@ Keterangan: Sebelum Eyang Gitodipuro kromo dengan isteri 1 s/d 4 beliau sebenarn
 	<br/><br/>
 
 *	Anak: [A01.][A01] ♂ Gitosuwiryo
-	*	Anak: ♂ Walidi/ Gitosuwiryo II
-	*	Anak: ♂ Dempok (tidak berketurunan)
-	*	Anak: ♂ Jalitheng Wimbobujono
-	*	Anak: ♀ Menok Joyosumarto
-	*	Anak: ♀ Mening Brotomiharjo
+	*	Anak: [A01B01.][A01B01] ♂ Walidi/ Gitosuwiryo II
+	*	Anak: A01B02. ♂ Dempok (tidak berketurunan)
+	*	Anak: [A01B03.][A01B03] ♂ Jalitheng Wimbobujono
+	*	Anak: [A01B04.][A01B04] ♀ Menok Joyosumarto
+	*	Anak: [A01B05.][A01B05] ♀ Mening Brotomiharjo
 	<br/><br/>
 
 *	Anak: [A02.][A02] ♀ Hardopranoto (Hardopradoto ?)
@@ -162,3 +162,8 @@ Keterangan: Sebelum Eyang Gitodipuro kromo dengan isteri 1 s/d 4 beliau sebenarn
 [A10]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A10.md
 [A11]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A11.md
 [A12]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A12.md
+
+[A01B01]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A01/B01.md
+[A01B03]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A01/B03.md
+[A01B04]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A01/B04.md
+[A01B05]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A01/B05.md
