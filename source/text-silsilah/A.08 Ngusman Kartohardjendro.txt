@@ -1,0 +1,63 @@
+. A.8. ♂ Ngusman Kartohardjendro
+│
+╞══ Istri: ♀ Kamsirin (TB)
+│
+╞══ Istri: ♀ (isteri kedua)
+├── Anak: B.1. ♀ Siti Roeskani
+├── Anak: B.2. ♀ Istati Soebroto (aa)
+└── Anak: B.3. ♀ Soedariyah Soemardjono (aa)
+
+. B.1.A.8. ♀ Siti Roeskani
+╞══ Suami: ♂ Soeprapto
+│
+├── Anak: C.1. ♀ Sri Wahyu Hastuti
+│   ╞══ Suami: ♂ Dr. Ir. Soepomo 
+│   │
+│   ├── Anak: D.1. ♀ Vanda Kusumaningrum
+│   └── Anak: D.2. ♀ Nancy Kurniawati
+│
+├── Anak: C.2. ♀ Hidayatiningsih
+│   ╞══ Suami: ♂ Ir. Nugrahadi Hargiyanto
+│   │
+│   ├── Anak: D.1. ♂ Iksan Kamil Abdi Nugroho
+│   └── Anak: D.2. ♀ Dyah Vitriningsih
+│
+└── Anak: C.3. ♂ Sidik Pramono, SH
+    ╞══ Istri: ♀ Srimpi Iswati
+    │
+    ├── Anak: D.1. ♀ Suci Tejowati
+    └── Anak: D.2. ♀ Yudhista Prabandari
+
+. B.2.A.8. ♀ Istati (aa)
+╞══ Suami: ♂ Soebroto Soerohaldoko
+│ 
+├── Anak: C.1. ♂ Eko Harimurti
+│   ╞══ Istri: ♀ Viddy Yusufiadi, Bc. Hk.
+│   │
+│   ├── Anak: D.1. ♀ Edra Vasti Yustina Madea
+│   └── Anak: D.2. ♂ Vedo Yustinivan
+│
+├── Anak: C.2. ♂ Bambang Dwi Tutuko
+│   ╞══ Istri: ♀ Ira
+│   │
+│   └── Anak: D.1. ♂ Asha
+│
+├── Anak: C.3. ♂ Tri Nurcahyo
+│   ╞══ Istri: ♀ Nurfauziah
+│   │
+│   └── Anak: D.1. 
+│
+└── Anak: C.4. ♀ Ratmira Susanti
+    ╞══ Suami: ♂ Eddy Mugiarto
+    │
+    └── Anak: D.1. ♀ Hasintia Raras Puspitasari
+
+. B.3.A.8. ♀ Soedariyah Soemardjono (aa)
+╞══ Suami: ♂ Soemardjo
+│ 
+└── Anak: C.1. ♀ Woro Ultrayekti 
+    ╞══ Suami: ♂ Dr. Sri Hendarto
+    │
+    ├── Anak: D.1. ♀ Febriant Hendriani
+    ├── Anak: D.2. ♂ Yunarso Hendri Anto
+    └── Anak: D.3. ♀ Meita Hendrianingyas

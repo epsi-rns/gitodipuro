@@ -1,0 +1,123 @@
+. A.3. ♂ Gitosudirdjo
+│
+├── Anak: B.1. ♂ Soegito/Glondong (TB)
+├── Anak: B.2. ♂ Soekamto Sosrosoekamto
+├── Anak: B.3. ♂ Soekarto Mangoensoekarto
+└── Anak: B.4. ♀ Soekamni Sosromihardjo
+
+. B.1.A.3. ♂ Soegito/Glondong (TB)
+
+. B.2.A.3. ♂ Soekamto Sosrosoekamto
+╞══ Istri : ♀ Darwiyah 
+│
+├── Anak: C.1. ♂ Hutomo Sigiarso
+│   ╞══ Istri: ♀ 
+│   │
+│   ├── Anak: D.1. ♀ Sularsi
+│   │   ╞══ Suami: ♂ Sayuti
+│   │   │
+│   │   ├── Anak: E.1. ♂ Ir. Indarto
+│   │   ├── Anak: E.2. ♂ Iswan
+│   │   └── Anak: E.3. ♂ Jarot
+│   │
+│   ├── Anak: D.2. ♂ Sularso 
+│   │   ╞══ Istri: ♀
+│   │   │
+│   │   ├── Anak: E.1.
+│   │   ├── Anak: E.2.
+│   │   └── Anak: E.3.
+│   │
+│   ├── Anak: D.3. ♂ Sularto
+│   │   ╞══ Istri: ♀
+│   │   │
+│   │   └── Anak: E.1.
+│   │
+│   └── Anak: D.4. ♀ Sularti 
+│       ╞══ Suami: ♂ 
+│       │
+│       ├── Anak: E.1. ♀ Niken
+│       └── Anak: E.2. ♀ Sari
+│
+├── Anak: C.2. ♀ Soedariyah (TB)
+│   ╘══ Suami: ♂ Soetedjo
+│
+├── Anak: C.3. ♂ Soedarinah
+│   ╞══ Suami: ♂ Patah Padmo Nagoro
+│   │
+│   ├── Anak: D.1. ♂ Sumitro
+│   ├── Anak: D.2. ♀ Sri Utami, SH
+│   └── Anak: D.3. ♂ Bambang Nugroho
+│
+└── Anak: C.4. ♂ Soegiarto Sosrosoekamto
+    ╞══ Istri: ♀
+    │
+    ├── Anak: D.1. ♀ Endang Mugiarti 
+    │   ╞══ Suami: ♂ Kutut Suwondo, DR
+    │   │
+    │   ├── Anak: E.1. ♂ Danang Herwandono
+    │   └── Anak: E.2. ♂ Seto Herwandito
+    │
+    ├── Anak: D.2. ♂ Joko Santoso
+    │   ╞══ Istri: ♀ Sri Wahyuni
+    │   │
+    │   ├── Anak: E.1. 
+    │   ├── Anak: E.2. 
+    │   ├── Anak: E.3. 
+    │   ├── Anak: E.4. 
+    │   ├── Anak: E.5. 
+    │   ├── Anak: E.6. 
+    │   └── Anak: E.7.  
+    │
+    ├── Anak: D.3. ♂ Bambang Agusdianto
+    │   ╞══ Istri: ♀ Mawardiningsih
+    │   │
+    │   ├── Anak: E.1. ♀ Tika
+    │   ├── Anak: E.2. ♂ Ari
+    │   └── Anak: E.3. ♂ Dadit
+    │
+    ├── Anak: D.4. ♂ Krisdiarto (TB)
+    │    
+    ├── Anak: D.5. ♀ Endang Mugiarsi
+    │   ╞══ Suami: ♂ Triyanto
+    │   │
+    │   ├── Anak: E.1. ♂ Eko Hariyanto
+    │   ├── Anak: E.2. ♀ Ira Hariyanti
+    │   ├── Anak: E.3. ♀ Dyah Aryani
+    │   ├── Anak: E.4. ♂ Bimo Seno
+    │   └── Anak: E.5. ♀ Kristiana Nugrahaeni
+    │
+    ├── Anak: D.6. ♂ Edi Budiarto
+    │   ╞══ Istri: ♀ Anis Maftuchah
+    │   │
+    │   ├── Anak: E.1. ♂ Kunfajaruddin
+    │   ├── Anak: E.2. ♀ Khairunissa Noor Arifah
+    │   └── Anak: E.3. ♂ Kun Fajri Adiarto
+    │    
+    ├── Anak: D.7. ♀ Endang Budi Astuti
+    │   ╞══ Suami: ♂ Gatot Sasongko, MA
+    │   │
+    │   ├── Anak: E.1. ♀ Ita Permatasari
+    │   ├── Anak: E.2. ♂ Aji Fajar Nugroho
+    │   ├── Anak: E.3. ♀ Ina Septiana
+    │   └── Anak: E.4. ♂ Gandang
+    │
+    ├── Anak: D.8. ♀ Dra. Ana Budiarti
+    │   ╞══ Suami: ♂ Dr. Kris Triputranto
+    │   │
+    │   └── Anak: E.1. ♀ Priskita Kurnia Putri
+    │
+    ├── Anak: D.9. ♂ Hartanto Kurniawan
+    │   ╞══ Istri: ♀ Heni
+    │   │
+    │   └── Anak: E.1. ♀ Agnesa
+    │    
+    └── Anak: D.10. ♂ Budi Radidyo
+        ╘══ Istri: ♀ Puji Lestari
+
+. B.3.A.3. ♂ Soekarto Mangoensoekarto (TB)
+
+. B.4.A.3. ♀ Soekamni Sosromihardjo
+╞══ Suami: ♂ Sosromihardjo
+│
+├── Anak: C.1. ♀ Soedarsi
+│   ╞══ Suami: ♂ Darwanto

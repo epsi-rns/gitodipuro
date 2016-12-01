@@ -1,0 +1,23 @@
+. A.12. ♀ Bandinah
+╞══ Suami: ♂ Brototenoyo
+│
+└── Anak: B.1. ♂ Ibnu Subroto
+
+. B.1.A.12. ♂ Ibnu Subroto
+╞══ Istri: ♀ Woro Kartini (Ket: Lihat B.7A.6. Woro Kartini)
+│
+├── Anak: C.1. ♀ Pratiwi 
+│   ╞══ Suami: ♂ Dr. Prawoto
+│   │
+│   ├── Anak: D.1. ♀ Dewi Evieane 
+│   ├── Anak: D.2. ♂ Rachmad Hidayat
+│   └── Anak: D.3. ♀ Dewi Puspita Sari
+│
+├── Anak: C.2. ♀ Hesthi Priyatini
+│
+├── Anak: C.3. ♀ Triasih
+│   ╞══ Suami: ♂ Much Putranto
+│   │
+│   └── Anak: D.2. ♂ Ridwan Trisnaputra
+│
+└── Anak: C.4. ♂ Srigutomo Cahyadi

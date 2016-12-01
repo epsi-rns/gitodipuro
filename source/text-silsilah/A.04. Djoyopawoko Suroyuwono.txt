@@ -1,0 +1,424 @@
+. A.4. ♀ Djoyopawoko Suroyuwono
+│
+├── Anak: B.1. ♂ Subagyo (TB) (Werk Dell)
+├── Anak: B.2. ♂ Djoyosuyitno
+├── Anak: B.3. ♀ Sumami Padmosoeyatno
+├── Anak: B.4. ♀ Soeyati Soemarjo
+├── Anak: B.5. ♀ Soemarti Prawirosoemarto (TB)
+├── Anak: B.6. ♀ Soekati Mangoensarkoro
+├── Anak: B.7. ♀ Soekardi
+└── Anak: B.8. ♀ Darmanto (TB) (Korban Romusha)
+
+. B.1.A.4. ♂ Subagyo (TB) (Werk Dell)
+
+. B.2.A.4. ♂ Djoyosuyitno
+╞══ Istri : ♀ Soedarsi
+│
+├── Anak: C.1. ♂ Sudiyanto
+│   ╞══ Istri: ♀ Sumarningsih
+│   │
+│   ├── Anak: D.1. ♂ Yugianto
+│   ├── Anak: D.2. ♀ Miradiarsi
+│   └── Anak: D.3. ♂ Rudianto
+│
+├── Anak: C.2. ♀ Sriyatmi 
+│   ╘══ Suami: ♂ Bambang Rudjito (TB)
+│
+├── Anak: C.3. ♀ Darmini
+│   ╞══ Suami: ♂ Ramelan Prodjosusastro
+│   │
+│   ├── Anak: D.1. ♂ Wahyudi Heru Purwanto
+│   │   ╞══ Istri: ♀ Ambar Sumarningsih, Bsc
+│   │   │
+│   │   ├── Anak: E.1. ♂ Yudistira Kurniawan
+│   │   └── Anak: E.2. ♂ Irawan Dwi Kurniawan
+│   │
+│   ├── Anak: D.2. ♀ Ken Wahyudi Dwi Hartanti
+│   │   ╞══ Suami: ♂ Drs. Handri Lukmano
+│   │   │
+│   │   ├── Anak: E.1. ♂ Aldian ALi F. Adrianto
+│   │   └── Anak: E.2. ♀ Paradilla
+│   │
+│   ├── Anak: D.3. ♀ Ken Sukestri  Widiatmini
+│   │   ╞══ Suami: ♂ Ramdhani
+│   │   │
+│   │   ├── Anak: E.1. ♀ Ani Salla Agustin
+│   │   └── Anak: E.2. ♀ Arisa Budi Palepi
+│   │
+│   ├── Anak: D.4. ♀ Ir. Ken Winarni Tri Rahayu 
+│   │   ╞══ Suami: ♂ Ir. Ernawan Kartika Adi
+│   │   │
+│   │   └── Anak: E.1. ♀ Isma Nur Sabrina
+│   │
+│   ├── Anak: D.5. ♀ Ken Respati Krisdianti
+│   │   ╞══ Suami: ♂ Ir. Zaki Habsara Wibawa
+│   │   │
+│   │   └── Anak: E.1. ♂ Hastra Reza Satyantana
+│   │
+│   ├── Anak: D.6. ♀ Ken Yuniarti, Bsc.
+│   │   ╞══ Suami: ♂ Drs. Heri Bertus Hariyana
+│   │   │
+│   │   ├── Anak: E.1. ♂ Daksa Kartika
+│   │   └── Anak: E.2. ♂ Adhika Sagasitas
+│   │
+│   └── Anak: D.7. ♀ Ken Saptanti Budirahayu 
+│       ╘══ Suami: ♂ Drs. Ari Irawan
+│
+├── Anak: C.4. ♀ Darini 
+│   ╞══ Suami: ♂ Djoko Pangestu
+│   │
+│   ├── Anak: D.1. ♀ Endang Sembawati 
+│   │   ╞══ Suami: ♂ Hernawan
+│   │   │
+│   │   ├── Anak: E.1. ♀ Hesti
+│   │   └── Anak: E.2. ♀ Rista
+│   │
+│   ├── Anak: D.2. ♂ Sigit  Hariyanto
+│   │   ╞══ Istri: ♀ Ayoe
+│   │   │
+│   │   ├── Anak: E.1. ♀ Desar
+│   │   └── Anak: E.2. ♀ Putri
+│   │
+│   ├── Anak: D.3. ♀ Tuti Setyawati
+│   │   ╞══ Suami: ♂ Nurhadi
+│   │   │
+│   │   ├── Anak: E.1. ♀ Mentari
+│   │   └── Anak: E.2. ♂ Purnama
+│   │
+│   ├── Anak: D.4. ♂ Tafip Hariyudanto
+│   │   ╘══ Istri: ♀ 
+│   │
+│   ├── Anak: D.5. ♂ Bambang Hariatmojo
+│   └── Anak: D.6. ♂ Yudi Hari Rukminto
+│
+├── Anak: C.5. ♀ Dariyatmi
+│   ╞══ Suami: ♂ Sarwo Utomo
+│   │
+│   ├── Anak: D.1. ♀ Susi
+│   ├── Anak: D.2. ♂ Budi
+│   ├── Anak: D.3. ♂ Soni
+│   └── Anak: D.4. ♂ Anok
+│
+├── Anak: C.6. ♀ Sudiyanti 
+│   ╞══ Suami: ♂ Pandji Darto
+│   │
+│   ├── Anak: D.1. ♀ Prima Harsiwi Widiasih
+│   │   ╞══ Suami: ♂ Woro Sugito
+│   │   │
+│   │   ├── Anak: E.1. ♂ Baskoro Andi Nugroho
+│   │   └── Anak: E.2. ♀ Erlinda
+│   │
+│   ├── Anak: D.2. ♀ Kurnia Widiatik
+│   │   ╞══ Suami: ♂ Budi Bachtiar
+│   │   │
+│   │   └── Anak: E.1. ♀ Herdian Rediyanto
+│   │
+│   ├── Anak: D.3. ♂ Widi Astono
+│   ├── Anak: D.4. ♂ Kukuh Santoso Laksono
+│   ├── Anak: D.5. ♂ Agus Sudiarti
+│   ├── Anak: D.6. ♂ Sigit Suhirtanto
+│   └── Anak: D.7. ♂ Adhianto
+│
+└── Anak: C.7. ♀ Sudarminah
+    ╞══ Suami: ♂ Hardiansyah
+    │
+    └── Anak: D.1. ♀ Dani
+
+. B.3.A.4. ♀ Sumami
+╞══ Suami : ♂ Padmo Suyatno
+│
+├── Anak: C.1. ♀ Sutami
+│   ╞══ Suami: ♂ Somiran Sastromiharjo
+│   │
+│   ├── Anak: D.1. ♀ Siti Nurdinah
+│   │   ╞══ Suami: ♂ Bambang Suharto
+│   │   │
+│   │   ├── Anak: E.1. ♀ Retno Nur Hartini
+│   │   │
+│   │   ├── Anak: E.2. ♂ Sigit Nur Bambang 
+│   │   │   ╞══ Istri: ♀ Nunuk
+│   │   │   │
+│   │   │   ├── Anak: F.1. ♀ Winda
+│   │   │   └── Anak: F.2. ♂ Dimas
+│   │   │
+│   │   ├── Anak: E.3. ♂ Anggit Prabantoro
+│   │   │   ╘══ Istri: ♀ Lies
+│   │   │
+│   │   └── Anak: E.4. ♀ Ratih Titi Wigarindiah
+│   │       ╞══ Suami: ♂ Yudi
+│   │       │
+│   │       ├── Anak: F.1. ♀ Dias Dianing Ratri
+│   │       └── Anak: F.2. ♂ Dinar
+│   │
+│   ├── Anak: D.2. ♀ Siti Rohmah
+│   │   ╞══ Suami: ♂ Suninto Hardjoyo
+│   │   │
+│   │   ├── Anak: E.1. ♂ Tanon Windyaswin
+│   │   │   ╞══ Istri: ♀ Nuning Sapta Ningrum
+│   │   │   │
+│   │   │   └── Anak: F.1. ♂ Kevin Aninditya
+│   │   │
+│   │   ├── Anak: E.2. ♂ Yanuar Nindiyarto 
+│   │   │   ╞══ Istri: ♀ Ida Ayu Prihatiningsih
+│   │   │   │
+│   │   │   └── Anak: F.1.
+│   │   │
+│   │   ├── Anak: E.3. ♂ Diar Nindiarto 
+│   │   │
+│   │   └── Anak: E.4. ♀ Tantri Nidias Wari
+│   │       ╞══ Suami: ♂ Drh. Dhargo Ajie
+│   │       │
+│   │       └── Anak: F.1.
+│   │
+│   ├── Anak: D.3. ♂ Hartono (TB)
+│   │
+│   └── Anak: D.4. ♂ Nur Kayadi
+│       ╞══ Istri: ♀ Murtini
+│       │
+│       ├── Anak: E.1. ♀ Maskawoco 
+│       │   ╞══ Istri: ♀ Harmin
+│       │   │
+│       │   └── Anak: F.1. Ika Sayu Kiftia
+│       │
+│       ├── Anak: E.2. ♀ Kumbul Sugeng Yuli Isnanto
+│       │   ╞══ Istri: ♀ Hartini
+│       │   │
+│       │   └── Anak: F.1. Tria Ayu Wulandari
+│       │
+│       ├── Anak: E.3. ♀ Nur Cahyo Widodo (TB)
+│       │
+│       ├── Anak: E.4. ♀ Nur Hadi Winasis
+│       │   ╞══ Istri: ♀ Sri Wahyuni
+│       │   │
+│       │   └── Anak: F.1. Lia Nur Wahyu Eka Dini
+│       │
+│       └── Anak: E.5. ♂ Dinda Resvina Putri
+│
+├── Anak: C.2. ♂ Sayid Soeharto (TB)
+│
+├── Anak: C.3. ♀ Siti Rahayu
+│   ╞══ Suami: ♂ Suwarno
+│   │
+│   ├── Anak: D.1. ♀ Budi Handayani
+│   │   ╞══ Suami: ♂ Soemarno Hadi
+│   │   │
+│   │   ├── Anak: E.1. ♂ Bondan Wirawan
+│   │   ├── Anak: E.2. ♀ Lukita Damayanti
+│   │   ├── Anak: E.3. ♀ Nita Wulansari
+│   │   └── Anak: E.4. ♂ Eri Purnomo
+│   │
+│   ├── Anak: D.2. ♂ Mahadi Budi Sidharta
+│   │   ╞══ Istri: ♀ Mujiwati
+│   │   │
+│   │   ├── Anak: E.1. ♀ Ambar Wahyuni 
+│   │   ├── Anak: E.2. ♀ Martha Maharani
+│   │   ├── Anak: E.3. ♀ Martri Ananta
+│   │   └── Anak: E.4. ♀ Arini Damayanti
+│   │
+│   ├── Anak: D.3. ♂ Didik Budi Bimantoro
+│   │   ╞══ Istri: ♀ Edi Purwaningsih
+│   │   │
+│   │   ├── Anak: E.1. ♂ Yudi 
+│   │   └── Anak: E.2. ♀ Dian
+│   │
+│   │
+│   ├── Anak: D.4. ♂ Agus Budi Marthono
+│   │   ╞══ Istri: ♀ Pudjiati
+│   │   │
+│   │   ├── Anak: E.1. ♂ Taufan Budi Puspanegara 
+│   │   └── Anak: E.2. ♂ Wahyu Budi Darmawan
+│   │
+│   ├── Anak: D.5. ♀ D.B. Agustiani
+│   │   ╞══ Suami: ♂ Adi Chandra
+│   │   │
+│   │   └── Anak: E.1. ♂ Oki Heru Widodo
+│   │
+│   ├── Anak: D.6. ♂ Pahlawan Budi Nusanto
+│   │   ╞══ Istri: ♀ Maryati
+│   │   │
+│   │   ├── Anak: E.1. ♂ Yanuar Teguh Pramuditia
+│   │   └── Anak: E.2. ♂ Bayu Teguh Wibowo
+│   │
+│   ├── Anak: D.7. ♂ Agung Budi Nugraha
+│   │   ╞══ Istri: ♀ Ida
+│   │   │
+│   │   └── Anak: E.1. ♂ Mei Kani
+│   │
+│   └── Anak: D.8. ♂ Sri Lambang Budi Arianto
+│       ╘══ Istri: ♀ Via Febriansyah Saputra
+│
+├── Anak: C.4. ♂ Sayid Saparas
+│   ╞══ Istri: ♀ 
+│   │
+│   ├── Anak: D.1. 
+│   ├── Anak: D.2. 
+│   ├── Anak: D.3. 
+│   ├── Anak: D.4. 
+│   └── Anak: D.5. 
+│
+└── Anak: C.5. ♀ Soepadmi
+    ╞══ Suami: ♂ Khasan Anom
+    │
+    └── Anak: D.1. ♀ Susi Susanti
+        ╞══ Suami: ♂ Imam Basuki
+        │
+        ├── Anak: E.1. ♂ Mohamad Ismail Basuki 
+        ├── Anak: E.2. ♂ Yudi Aristomo Basuki
+        ├── Anak: E.3. ♀ Reni Damayanti
+        └── Anak: E.4. ♀ Rima Rusilawati
+
+. B.4.A.4. ♀ Soeyati
+╞══ Suami : ♂ Soemardjo
+│
+├── Anak: C.1. ♂ Soetardjo (TB)
+│
+├── Anak: C.2. ♀ Soelastri (TB)
+│
+├── Anak: C.3. ♂ Soeripto  
+│   ╞══ Istri: ♀ Siti Mursidah
+│   │
+│   └── Anak: D.1. ♂ Ir. Awang Darmawan.
+│
+├── Anak: C.4. ♀ Koesdjoewariah (TB) 
+│
+├── Anak: C.5. ♀ Siti Marsinah
+│   ╞══ Suami: ♂ Drs. Soemantrihardjo
+│   │
+│   ├── Anak: D.1. ♀ Etty Tjahyaningsih 
+│   │   ╘══ Suami: ♂ Drs. Setya Harsono
+│   │
+│   ├── Anak: D.2. ♂ Drs. Arief Budiman
+│   │   ╘══ Istri: ♀ Dewi
+│   │
+│   └── Anak: D.3. ♀ Yulianti Triastuti, SH
+│
+├── Anak: C.6. ♂ Ir. Soedibyo 
+│   ╞══ Istri: ♀ Sri Kodratinah
+│   │
+│   ├── Anak: D.1. ♀ Dra. Oktarina Albetzia
+│   │   ╘══ Suami: ♂ Dr. Heru Nugroho
+│   │
+│   ├── Anak: D.2. ♀ Dra. Ulin Savitri
+│   │   ╘══ Suami: ♂ Drs. Budi Riawan
+│   │
+│   ├── Anak: D.3. ♀ Dra. Sylvi Merkusiani
+│   │   ╘══ Suami: ♂ Drs. Dyah Tjatmika Adi Susyanta
+│   │
+│   ├── Anak: D.4. ♂ Drs. Didiek Indardi
+│   │   ╘══ Suami: ♂ 
+│   │
+│   ├── Anak: D.5. ♀ Ir. Wenny Mahawani
+│   │   ╘══ Suami: ♂ 
+│   │
+│   └── Anak: D.6. ♂ Desya Rusmindar
+│
+├── Anak: C.7. ♀ Siti Marsanah (TB) 
+│
+├── Anak: C.8. ♂ Soemarsono
+│   ╞══ Istri: ♀ Tien Herwyanti
+│   │
+│   ├── Anak: D.1. ♀ Dra. Ayu Yunita
+│   │   ╘══ Suami: ♂ Ir. Dharma Putranto
+│   │
+│   ├── Anak: D.2. ♂ Bonny Yanuarto, SH
+│   │
+│   ├── Anak: D.3. ♂ Christanto Novian, SH
+│   │
+│   └── Anak: D.4. ♂ Drs. Donnie Mahardono
+│
+└── Anak: C.9. ♂ Soedarsono
+    ╞══ Istri: ♀ Winarningsih
+    │
+    ├── Anak: D.1. ♂ Ir. Moelyoto
+    │   ╘══ Istri: ♀ 
+    │
+    ├── Anak: D.2. ♂ Drs. Inang Winarno
+    │    
+    ├── Anak: D.3. ♀ Ir. Fajar Riyanti
+    │   ╘══ Istri: ♀ 
+    │    
+    ├── Anak: D.4. ♂ Adik Wicaksono
+    │    
+    └── Anak: D.5. ♂ Khrisna Wardana
+
+. B.5.A.4. ♀ Soemarti Prawirosoemarto (TB)
+
+. B.6.A.4. ♀ Soekati
+╞══ Suami : ♂ Sariyadi Mangoensarkoro
+│
+├── Anak: C.1. ♂ Sarwono
+│   ╞══ Istri: ♀ Sarinem
+│   │
+│   ├── Anak: D.1. ♀ Purwanti (TB)
+│   ├── Anak: D.2. ♀ Retna Widyastuti
+│   └── Anak: D.3. ♀ Erna Triastuti
+│
+├── Anak: C.2. ♂ Prayitna
+│   ╞══ Istri: ♀ Naswardani
+│   │
+│   └── Anak: D.1. ♀ Cinderela Prawardani
+│
+└── Anak: C.3. ♂ Sarwodi
+
+. B.7.A.4. ♀ Soekardi
+╞══ Istri : ♂ Soetjiati
+│
+├── Anak: C.1. ♂ Istoetianto
+│   ╞══ Istri: ♀ Retni Dee
+│   │
+│   ├── Anak: D.1. ♀ Fina Widiyati, SH
+│   └── Anak: D.2. ♀ Wisda Dertina
+│
+├── Anak: C.2. ♂ Dr. Istiantoro
+│   ╞══ Istri: ♀ Dr. Yati Herwati
+│   │
+│   ├── Anak: D.1. ♂
+│   └── Anak: D.2. ♂
+│
+├── Anak: C.3. ♀ Lidia Umijati, SH
+│   ╞══ Suami: ♂ Ir. Loekito
+│   │
+│   ├── Anak: D.1. ♂ Agus Hermawan, MBA
+│   │   ╘══ Istri: ♀ Amriyati Asri
+│   │
+│   └── Anak: D.2. ♀ Wira Wardhana, S.Ked.
+│
+├── Anak: C.4. ♂ Isnurul Hadi
+│   ╞══ Istri: ♀ Neny Kusteny
+│   │
+│   ├── Anak: D.1. ♂ Pramudya Wirawan
+│   └── Anak: D.2. ♂ Miriani Pradiptari
+│
+├── Anak: C.5. ♀ Sri Umi Heryanti
+│   ╞══ Suami: ♂ Bambang Kusdibyo
+│   │
+│   ├── Anak: D.1. ♂ Yudo Ardi Purnawarman
+│   └── Anak: D.2. ♀ Sandi Ari Yanuarso
+│
+├── Anak: C.6. ♀ Sri Umi Heriyani
+│   ╞══ Suami: ♂ Bagus Hariohadi
+│   │
+│   ├── Anak: D.1. ♂ Vicki Fajar Fitriawan
+│   └── Anak: D.2. ♀ Vidia Adrian
+│
+├── Anak: C.7. ♂ Isharianto
+│   ╞══ Istri: ♀ Rasmayati (cr)
+│   │
+│   ├── Anak: D.1. ♀ Tantri Mareta Sari
+│   ├── Anak: D.2. ♂ Agung
+│   └── Anak: D.3. ♀ Nurlela
+│
+├── Anak: C.8. ♂ Eddy Ishariadi
+│   ╞══ Istri: ♀ Dra. Anies Tri Susilowati
+│   │
+│   ├── Anak: D.1. ♂ Eda Yanuar Sinatriya
+│   └── Anak: D.2. ♂ Evodie Yanuar Prasetyo
+│
+└── Anak: C.9. ♀ Sri Umi Listiani
+    ╞══ Suami: ♂ Alian Helmy Daulay
+    │
+    ├── Anak: D.1. ♀ Hanna Adianita
+    ├── Anak: D.2. ♂ Ichwan Fuadi
+    └── Anak: D.3. ♀ Syahnaz Alna
+ 
+. B.8.A.4. ♀ Darmanto (TB) (Korban Romusha)

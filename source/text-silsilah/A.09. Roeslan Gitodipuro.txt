@@ -1,0 +1,13 @@
+. A.9. ♂ Roeslan Gitodipuro
+│
+├── Anak: B.1. ♂ Roediman Roeslan
+└── Anak: B.2. ♂ Soedarsono Roeslan
+
+. B.1.A.9. ♂ Roediman Roeslan
+│
+└── Anak: C.1. ♂ Ruslan Budi Santoso
+
+. B.2.A.9. ♂ Soedarsono Roeslan
+│
+├── Anak: C.1. ♀ Sudarti
+└── Anak: C.1. ♀ Sudarni

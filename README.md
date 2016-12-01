@@ -4,13 +4,13 @@
 	<br/>
 
 *	Istri ke-1: ♀ Putri Mangunredjo
-	<br/><br/>
+	<br/>
 *	Anak: A01. ♂ Gitosuwiryo
 *	Anak: A02. ♀ Hardopranoto
 	<br/><br/>
 
 *	Istri ke-2: ♀ Putri Kartodipuro
-	<br/><br/>
+	<br/>
 *	Anak: A03. ♂ Gitosudirjo
 *	Anak: A04. ♀ Djoyopawoko
 *	Anak: A05. ♀ Sutopuspito
@@ -18,7 +18,7 @@
 	<br/><br/>
 
 *	Istri ke-3: ♀ dari Djuwangi
-	<br/><br/>
+	<br/>
 *	Anak: A07. ♀ Surohatmojo
 *	Anak: A08. ♂ Kartohardjendro (ngusman)
 *	Anak: A09. ♂ Ruslan
@@ -27,7 +27,7 @@
 	<br/><br/>
 
 *	Istri ke-4: ♀ Putri dari Gagatan
-	<br/><br/>
+	<br/>
 *	Anak: A12. ♂ Brototenoyo
 	<br/><br/>
 

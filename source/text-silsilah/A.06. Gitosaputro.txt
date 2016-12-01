@@ -1,0 +1,331 @@
+. A.6. ♂ Gitosaputro
+│
+├── Anak: B.1. ♂ Djoko Daulat Mangkusaputro
+├── Anak: B.2. ♂ Djoko Joewono
+├── Anak: B.3. ♂ Djoko Waloejo
+├── Anak: B.4. ♀ Siti Redjeki
+├── Anak: B.5. ♀ Siti Lestari
+├── Anak: B.6. ♂ Danardo (TB)
+└── Anak: B.7. ♀ Woro Kartini
+
+. B.1.A.6. ♂ Djoko Daulat Mangkusaputro
+╞══ Istri: ♀ Soekanti
+│
+├── Anak: C.1. ♀ Sri Sumadji
+│   ╞══ Suami: ♂ Joehono
+│   │
+│   ├── Anak: D.1. ♂ Drs. Joehananto Djoko Teguh Widodo 
+│   │   ╞══ Istri: ♀ Dra. Anna Riyanti
+│   │   │
+│   │   └── Anak: E.1. ♀ Adhe Festiananta Permatasari, SE
+│   │
+│   ├── Anak: D.2. ♀ Dra. Joehananti Cri Chriswandari
+│   │   ╞══ Suami: ♂ Kholil AR Nasution, SE, MA
+│   │   │
+│   │   ├── Anak: E.1. ♀ Rizky Ayu Kurniasari, SIP
+│   │   └── Anak: E.2. ♂ Bagoes Suryo Aji Wibowo
+│   │
+│   ├── Anak: D.3. ♀ Yoehanita Kusuma Astuti, Amd.
+│   │
+│   ├── Anak: D.4. ♂ Juhandono Sugiharto
+│   │
+│   ├── Anak: D.5. ♂ Yuhandono Joko Purnomo
+│   │
+│   └── Anak: D.6. ♀ Yuhanida Kurnia Wijayanti
+│
+├── Anak: C.2. ♂ Djoko Budihardjo, SH
+│   │
+│   ├── Anak: D.1. ♂ Ivan JMW (aa)
+│   │
+│   ╞══ Istri: ♀ Siti Astuti
+│   ├── Anak: D.2. ♀ Dra. Dyah Sulistyastuti, S.Sos. MM
+│   │
+│   ╞══ Istri: Indri Sulistyowati
+│   ├── Anak: D.3. ♀ Octavia Sulistyabudi
+│   ├── Anak: D.4. ♀ Dewi Astuti Sulistiyabudi, S.Psi, M.Psi
+│   └── Anak: D.5. ♀ Isrid Septriani Sulistyabudi, SH. MH.
+│
+├── Anak: C.3. ♂ Djoko Pudjiarjo, Bc.Hk.
+│   │
+│   ╞══ Istri: ♀ Wijiati
+│   ├── Anak: D.1. ♂ Drs. Cuk Joko Pujiarjo
+│   │
+│   ╞══ Istri: ♀ Siti Sabaniyah
+│   ├── Anak: D.2. ♂ Muhammad Agung Nugroho
+│   │   ╞══ Istri: ♀ Yani
+│   │   │
+│   │   ├── Anak: E.1. ♂ Muhammad Ikhsan
+│   │   └── Anak: E.2. ♂ Ashari
+│   │
+│   ├── Anak: D.3. ♂ Budi Satriyo
+│   ├── Anak: D.4. ♀ Nurul Hidayati
+│   │
+│   ╞══ Istri: ♂ Sri Wardhani
+│   ├── Anak: D.5. ♂ Akbar Priyanto
+│   │
+│   ╞══ Istri: ♀ Anna Abidin
+│   ├── Anak: D.6. ♀ Nur Aisah
+│   ├── Anak: D.7. ♀ Lia Noviasari
+│   ├── Anak: D.8. ♀ Wulan Oktaviana
+│   ├── Anak: D.9. ♀ Nur Azizah
+│   │
+│   ╞══ Istri: ♀ Inta Yuliana
+│   ├── Anak: D.10. ♀ Ratri Puji Astuti
+│   │
+│   ╞══ Istri: ♀ Sri Lestari
+│   └── Anak: D.11. ♂ Arinto
+│
+├── Anak: C.4. ♀ Ir. Sri Sugiarti
+│   ╞══ Suami: ♂ Prof. Dr. Agus Pujoarinto
+│   │
+│   ├── Anak: D.1. ♂ Enggar Prajanto
+│   └── Anak: D.2. ♂ Indro Putro
+│
+├── Anak: C.5. ♀ Sri Wahyu Hidayati, BSc. 
+│   ╞══ Suami: ♂ Drs. Kartono
+│   │
+│   ├── Anak: D.1. ♂ Adhi Kusumo Wibowo
+│   ├── Anak: D.2. ♀ Maharani Puspita Wibawanti
+│   └── Anak: D.3. ♂ Seta Budi Satrio Utomo (alm)
+│
+└── Anak: C.6. ♂ Drs. H. Djoko Sidik Pramono
+    ╞══ Istri: ♀ Endang Purwani Titiningsih
+    │
+    ├── Anak: D.1. ♀ Ediati Kusuma Utami
+    ├── Anak: D.2. ♀ Hanindya Kusuma Artati
+    ├── Anak: D.3. ♂ Daruadi Kusumo Utomo
+    └── Anak: D.4. ♀ Dyah Kusuma Pitasari
+
+. B.2.A.6. ♂ Djoko Joewono
+╞══ Istri: ♂ Sri Rabidjah
+│
+├── Anak: C.1. ♀ Sri Kodratinah
+│   ╞══ ♂ Suami: Ir. Soedibyo
+│   │
+│   ├── Anak: D.1. ♀ Dra. Oktarina Albezia 
+│   │
+│   ├── Anak: D.2. ♀ Dra. Ulin Syafitri 
+│   │   ╞══ Suami: ♂ Drs. Budi Riawan
+│   │   │
+│   │   └── Anak: E.1. ♂ Reska Ramadhani Busya
+│   │
+│   ├── Anak: D.3. ♀ Dra. Silvy Merkusiani 
+│   │   ╞══ Suami: ♂ Drs. Dyah Djatmika Adi Susyanta
+│   │   │
+│   │   ├── Anak: E.1. ♂ Adyan Marendra Ramadani
+│   │   └── Anak: E.2. ♀ Ramadyani Febi Larasati
+│   │
+│   ├── Anak: D.4. ♂ Drs. Indardi
+│   │
+│   ├── Anak: D.5. ♀ Ir. Sri Mahawani
+│   │
+│   └── Anak: D.6. ♀ Desya Rusmindar
+│
+├── Anak: C.2. ♀ Sri Noerini
+│   ╞══ Suami: ♂ Prof. Dr. Ir. KRH. H. Otto Abi Suhardono Brotosunaryo
+│   │
+│   ├── Anak: D.1. ♂ Ir. Don Ateng Sinaroja 
+│   │   ╘══ Istri: ♀ Emma  Lesmanawati
+│   │
+│   ├── Anak: D.2. ♂ Ir. Mita Iviati Artati 
+│   │   ╞══ Suami: ♂ + Ir. Sigit Prijowibowo
+│   │   │
+│   │   ├── Anak: E.1. ♀ Larasati Ratih Indahsari, Amd. Keb.
+│   │   ├── Anak: E.2. ♂ Dimas Prasetyo
+│   │   └── Anak: E.3. ♂ Muhammad Mufid Hanif
+│   │
+│   ├── Anak: D.3. ♂ Ben Agustitanto Sunarjadi, SE 
+│   │   ╞══ Istri: ♀ Ati Hermajanti, SE
+│   │   │
+│   │   └── Anak: E.1. ♀ Dina Sulistyowati Pratiwi
+│   │
+│   └── Anak: D.4. ♂ Pung Aryo Sujatmoko, SE
+│
+├── Anak: C.3. ♂ Ir. H. Soeryohantoro
+│   ╞══ Istri: ♀ Hj. Tati Hartati
+│   │
+│   ├── Anak: D.1. ♂ Ir. Indro Ariwibowo
+│   └── Anak: D.2. ♂ Ir. Akbar Ariantoro, MSi
+│
+├── Anak: C.4. ♀ Sri Hastuti, Bc.Hk.
+│   ╞══ Suami: ♂ Koeshananto Suryopuro
+│   │
+│   ├── Anak: D.1. ♀ Dra. Hani Puspita Amalia
+│   └── Anak: D.2. ♂ Bambang Santanu Murti Vio
+│
+╞══ Istri: ♂ Soetarti
+│
+└── Anak: C.5. ♀ Dra. Endang Yuwananti
+    ╞══ Suami: ♂ A. Bimanyu, SE. Akt.
+    │
+    ├── Anak: D.1. ♀ Yennie Kumalasari
+    └── Anak: D.2. ♀ Ir. Shanti Mayasari
+
+. B.3.A.6. ♂ Djoko Waloejo
+╞══ Istri: ♂ Soemarmi
+│
+├── Anak: C.1. ♂ Djoko Purwono
+│   ╞══ Istri: ♀ Sri Lindawati
+│   │
+│   ├── Anak: D.1. ♀ Dewi Purwanti Yuliandri
+│   ├── Anak: D.2. ♀ Dwi Esti Wijayanti
+│   ├── Anak: D.3. ♂ Tri Setyo Budi Waluyo
+│   └── Anak: D.4. ♂ Catur Agung Wijayanto
+│
+├── Anak: C.2. ♀ Siti Widijati
+│   ╘══ Suami: ♂ Drs. Ec. H. Herman Sudirman
+│
+├── Anak: C.3. ♀ Siti Purwati Darozati
+│   ╞══ Suami: ♂ Ir. H. Djoko Santoso, Ps.
+│   │
+│   ├── Anak: D.1. ♂ Bayu Febriyono Santosa Wibowo
+│   ├── Anak: D.2. ♀ Dwi Andriani Puspitasari
+│   └── Anak: D.3. ♀ Tri Astuti Puspitarini
+│
+├── Anak: C.4. ♂ Drs. H. Djoko Purwanto 
+│   ╞══ Istri: ♀ Dra. Hj. Sukrisna Ristiwati
+│   │
+│   ├── Anak: D.1. ♀ Oktavia Raniwati, SH
+│   └── Anak: D.2. ♀ Mei Ayu Ristiwati., S.Ak. AK
+│
+├── Anak: C.5. ♀ Dra. Siti Sri Wahyuni 
+│   ╞══ Suami: ♂ Lesmono
+│   │
+│   ├── Anak: D.1. ♀ Lanny Wahyu Lesmana
+│   ├── Anak: D.2. ♀ Yuli Dwi Susanti
+│   └── Anak: D.3. ♀ Wahyu Tri Setiawan
+│
+├── Anak: C.6. ♀ Dra. Siti Widayati Utami
+│
+├── Anak: C.7. ♀ Siti Hariyanti Rejeki (TB)
+│
+├── Anak: C.8. ♂ Ir. Djoko Sumartono Prabowo
+│
+└── Anak: C.9. ♂ Djoko Tjahyono Saputro
+    ╞══ Istri: ♀ Sulikah
+    │
+    ├── Anak: D.1. ♂ Eka Prasetya Saputra    
+    └── Anak: D.2. ♂ Andrian Tjahya Saputra
+
+. B.4.A.6. ♀ Siti Redjeki
+╞══ Suami: ♂ Joesoep Poerwosapoetro
+│
+├── Anak: C.1. ♂ Ir. H. Sayidina P.S.
+│   ╞══ Istri: ♀ Hj. Riyanti Darussalam
+│   │
+│   ├── Anak: D.1. ♀ Dra. Alviani Rachmi Nurwijayanti MM 
+│   │   │
+│   │   ╞══ Suami: ♂ A. Yusuf, SE MM (alm)
+│   │   ├── Anak: E.1. ♀ Carissa Astri Ghassani
+│   │   ├── Anak: E.2. ♀ Wilona Tigita Atsarina
+│   │   │
+│   │   ╘══ Suami: ♂ Huseyn Sinan Basalan
+│   │
+│   ├── Anak: D.2. ♂ Ir. Betanto Rachmat Nurwidiadi
+│   │   ╞══ Istri: ♀ Lesti Viergiani, SE
+│   │   │
+│   │   ├── Anak: E.1. ♂ Aditya Widiadi
+│   │   ├── Anak: E.2. ♀ Via Azlia
+│   │   └── Anak: E.3. ♂ Fikri Albari
+│   │
+│   ├── Anak: D.3. ♂ Deltadi Rachman Nurwijayanto, SE MSi MSi Msi FRM
+│   │   ╘══ Istri: ♀ Linda Kartika Yahya, SE
+│   │
+│   └── Anak: D.4. ♂ Epsiarto Rizqi Nurwijayadi, ST
+│   
+├── Anak: C.2. ♀ Dra. Hj. Darmastuti
+│   ╞══ Suami: ♂ Ir. Soesanto
+│   │
+│   ├── Anak: D.1. ♀ Dra. Retno Satyastuti
+│   │   ╞══ Suami: ♂ Akhmad Junaedi, SE. ME.
+│   │   │
+│   │   ├── Anak: E.1. ♂ Hashfi Arissaputra, S.Kom.
+│   │   └── Anak: E.2. ♀ Anisa Shabahati Permatasari
+│   │
+│   └── Anak: D.2. ♂ Drs. Santyo Widayatmo, SS. SH. MH
+│       ╞══ Istri: ♀ Julia Bea Kurniawaty, SH. MH
+│       │
+│       └── Anak: E.2. ♂ Rizki Radifan Julistyo
+│       
+├── Anak: C.3. ♀ Dra. Sri Koestati
+│   ╞══ ♂ Suami: ♂ Letkol (purn) Drs. D. Parman
+│   │
+│   ├── Anak: D.1. ♀ Drg. H. Dian Ekowati
+│   │   ╞══ Suami: ♂ Drs. H. Iksir Warganegara
+│   │   │
+│   │   ├── Anak: E.1. ♀ Ira Wulandari Warganegara
+│   │   ├── Anak: E.2. ♂ Ibramanto Warganegara
+│   │   ├── Anak: E.3. ♂ Irvandi Warganegara
+│   │   └── Anak: E.4. ♀ Irviani Warganegara
+│   │
+│   ├── Anak: D.2. ♂ Drs. Heru Partanto, MBA
+│   │   ╞══ Istri: ♀ Baby Mariza 
+│   │   │
+│   │   ├── Anak: E.1. ♂ Najla Ayu Byrulestari
+│   │   └── Anak: E.2. ♀ Fawwaz Byru Fitrianto
+│   │
+│   ├── Anak: D.3. ♂ Ir. Adi Musparno
+│   │   ╞══ Istri: ♀ Rita Mira Sari, SH
+│   │   └── Anak: E.1. ♂ Muhammad Rezadi
+│   │
+│   └── Anak: D.4. ♂ Ir. Deko Asrianto
+│       ╘══ Istri: ♀ Khairunissa
+│       
+├── Anak: C.4. ♀ Dra. Minuk Sri Respati
+│   ╞══ ♂ Suami: ♂ Drs. R. Soekamto
+│   │
+│   ├── Anak: D.1. ♀ Evie Listia Irwanti, SH. MM
+│   ├── Anak: D.2. ♂ Dr. Kartun Henky Sulistyo, SpA MSc
+│   └── Anak: D.3. ♂ Daniel Pungky Sulistyo, ST.
+│   
+├── Anak: C.5. ♂ Drs. Putranto Bait Sadali, SE. MT
+│   │
+│   ╞══ Istri: ♀ Nunik Purwatiningsih (alm)
+│   ├── Anak: D.1. ♂ Ravi Febi Wijanarko, SE
+│   ├── Anak: D.2. ♀ Diah Wulandari, SE. MSc.
+│   ├── Anak: D.3. ♂ Tiranto Sulingga, SE
+│   │
+│   ╘══ Istri: ♀ Dra. Sukismawati
+│   
+└── Anak: C.6. ♂ DR. MAF Ir. Asmoro Fajri Tritoto
+    ╞══ Istri: ♀ Sutarni
+    │
+    ├── Anak: D.1. ♂ Chandra Asmara, ST
+    ├── Anak: D.2. ♀ Dokter Kirana Asmara
+    └── Anak: D.3. ♂ Lintang Kusuma Asmara
+
+. B.5.A.6. ♀ Siti Lestari
+╞══ Suami: ♂ Soepono Ponodiningrat
+│
+├── Anak: C.1. ♂ Sutono Tonodipuro (aa)
+│   ╞══ Istri: ♀ Sumiyati 
+│   │
+│   ├── Anak: D.1. ♂ Sulistya
+│   ├── Anak: D.2. ♂ Susetya
+│   ├── Anak: D.3. ♀ Sri Rejeki
+│   └── Anak: D.4. ♂ Sudrajad
+│
+└── Anak: C.2. ♂ Supartono Tonodiningrat (aa)
+    ╞══ Istri: ♀ Srihartati 
+    └── Anak: D.1. ♂ Hardito Kurniawan (TB)
+
+. B.6.A.6. ♂ Danardo (TB)
+
+. B.7.A.6. ♀ Woro Kartini
+╞══ Suami: ♂ Ibnu Soebroto
+│
+├── Anak: C.1. ♂ Pratiwi 
+│   ╞══ Suami: ♂ Dr. Prawoto 
+│   │
+│   ├── Anak: D.1. ♀ Dewi Eviane
+│   ├── Anak: D.2. ♂ Rachmay Hidayat
+│   └── Anak: D.3. ♀ Dewi Puspitasari
+│
+├── Anak: C.2. ♂ Hesthi Priyatini
+│
+├── Anak: C.3. ♂ Triasih 
+│   ╞══ Suami: ♂ Much Putranto
+│   │
+│   └── Anak: D.1. ♂ Ridwan Trisnaputra
+│
+└── Anak: C.4. ♀ Sri Gutomo Cahyadi

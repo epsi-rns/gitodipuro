@@ -1,0 +1,238 @@
+. A.7. ♀ Zaenab
+╞══ Suami: ♂ Soerohatmodjo
+│
+├── Anak: B.1. ♂ Soewarno Soerohatmodjo
+├── Anak: B.2. ♀ Soemartin
+├── Anak: B.3. ♀ Soeroerin
+├── Anak: B.4. ♀ Soetarti
+├── Anak: B.5. ♀ Soemarni
+└── Anak: B.6. ♂ Soemarto Soerohatmodjo
+
+. B.1.A.7. ♂ Soewarno Soerohatmodjo
+
+. B.2.A.7. ♀ Soemartin
+╞══ Suami: ♂ Resowikoro
+│ 
+└── Anak: C.1. ♀ Hj. Siti Sarzaeriah
+    ╞══ Suami: ♂ Soehadak
+    │
+    ├── Anak: D.1. ♂ Sofwan Djauhari
+    │   ╞══ Istri: ♀ Werij Faizah
+    │   │
+    │   ├── Anak: E.1. ♂ Rahadiono
+    │   └── Anak: E.2. ♀ Yeni
+    │
+    ├── Anak: D.2. ♀ Siti Aniatul Choirati 
+    │   ╞══ Suami: ♂ Abd. Wachid, SH
+    │   │
+    │   ├── Anak: E.1. ♂ Ir. Saiful Hidayat
+    │   ├── Anak: E.2. ♀ Laily, SH
+    │   ├── Anak: E.3. ♀ Nenny
+    │   └── Anak: E.4. ♂ Johan
+    │
+    ├── Anak: D.3. ♀ Siti Zubaidah
+    │   ╞══ Suami: ♂ Karnoto
+    │   │
+    │   ├── Anak: E.1. ♂ Sri Sardono
+    │   └── Anak: E.2. ♂ Bayu
+    │
+    ├── Anak: D.4. ♂ Drs. H. Syahid Daroini 
+    │   ╞══ Istri: ♀ Hj. Sri Hartini
+    │   │
+    │   ├── Anak: E.1. ♀ Rianti Wulandari 
+    │   ├── Anak: E.2. ♀ Riana Gayatri
+    │   └── Anak: E.3. ♂ Achmad Rianto Nugrohojati
+    │
+    ├── Anak: D.5. ♂ Ngadidut Tajarub
+    │   ╞══ Istri: ♀ Listyowati
+    │   │
+    │   ├── Anak: E.1. ♂ Rachmat Junaedi
+    │   ├── Anak: E.2. ♀ Ninin
+    │   └── Anak: E.3. ♂ Nanda
+    │
+    ├── Anak: D.6. ♂ Mustafa Akwan (ndung)
+    │   ╞══ Istri: ♀ Erti, SH
+    │   │
+    │   ├── Anak: E.1. ♀ Megawati 
+    │   └── Anak: E.2. ♀ Novi
+    │
+    ├── Anak: D.7. ♀ Chafifah Himami (minuk)
+    │   ╞══ Suami: ♂ Teuku Effendi
+    │   │
+    │   ├── Anak: E.1. ♂ Alfa
+    │   ├── Anak: E.2. ♂ Toriq
+    │   └── Anak: E.3. ♂ Satrio
+    │
+    ├── Anak: D.8. ♀ Amin Ma'rifatun (Marie)
+    │   ╞══ Suami: ♂ H. Nawawi
+    │   │
+    │   ├── Anak: E.1. ♀ Nia
+    │   ├── Anak: E.2. ♀ Evi 
+    │   └── Anak: E.3. ♀ Mar'atus Sholihah
+    │
+    ├── Anak: D.9. ♀ Siti Nurhayati (inung)
+    │   ╞══ Suami: ♂ Edi Kusmayanto
+    │   │
+    │   ├── Anak: E.1. ♀ Eka Nur Febriyanti 
+    │   └── Anak: E.2. ♂ Rahmawan
+    │
+    └── Anak: D.10. ♂ Gatot Santoso (Tommy)
+        ╘══ Istri: ♀ Tini
+
+. B.3.A.7. ♀ Soeroerin
+╞══ Suami: ♂ H. Much Alwi Sadali
+│ 
+├── Anak: C.1. ♂ H. Muhammad Isa Alwi (TB)
+│ 
+├── Anak: C.2. ♀ Dra. Nurhayati 
+│   ╞══ Suami: ♂ H. Djamzuri Soeryo Sapoetro
+│   │
+│   ├── Anak: D.1. ♀ Dra. Fitri Nugrahani
+│   └── Anak: D.2. ♀ Sari Widyaningrum
+│ 
+├── Anak: C.3.B.3.A7 sama dengan D.4.C1.B2.A7
+│ 
+├── Anak: C.4. ♂ Muhammad Santoso, Bc. Hk.
+│   ╞══ Istri: ♀ Sri Utami
+│   │
+│   ├── Anak: D.1. ♀ Yuni Eko Susanti
+│   └── Anak: D.2. ♀ Salami Dwi Wahyuni
+│ 
+└── Anak: C.5. ♀ Sri Hastuti 
+    ╞══ Suami: ♂ H. Drs. Agus Sriyanto Marsudi
+    │
+    ├── Anak: D.1. ♀ Zahrotun Nisa Dyah Sarastuti
+    └── Anak: D.2. ♀ Afiefah Sulistyowati
+
+. B.4.A.7. ♀ Soetarti
+╞══ Suami: ♂ Soeteki Dirjosoewahjoe
+│ 
+├── Anak: C.1. ♂ Poernomo (TB)
+│ 
+├── Anak: C.2. ♀ Marlin 
+│   ╞══ Suami: ♂ Dasirin Hadi Oetomo
+│   │
+│   ├── Anak: D.1. ♀ Susilowati
+│   └── Anak: D.2. ♀ Tri Rahayu
+│       ╞══ Suami: ♂ Putu Mas Sudjana
+│       │
+│       ├── Anak: E.1. ♀ Mira
+│       └── Anak: E.2. ♂ Kadek
+│ 
+├── Anak: C.3. ♂ Wahyudi
+│   ╞══ Istri: ♀ E. Riniarti
+│   │
+│   └── Anak: D.1. ♂ Adik Purwanto
+│ 
+├── Anak: C.4. ♀ Sri Wahyuni
+│   ╞══ Suami: ♂ Dr. Wahadi
+│   │
+│   ├── Anak: D.1. ♀ Sri Hardiyanti
+│   │   ╞══ Suami: ♂ Faisa
+│   │   │
+│   │   ├── Anak: E.1. ♂ Fahmi
+│   │   ├── Anak: E.2. ♀ Riska
+│   │   └── Anak: E.3. ♂ Tatrun
+│   │
+│   ├── Anak: D.2. ♀ Irmawati
+│   │   ╞══ Suami: ♂ Risa Tris
+│   │   │
+│   │   └── Anak: E.1. ♀ Kartika
+│   │
+│   └── Anak: D.3. ♂ Tri Handono
+│ 
+├── Anak: C.5. ♂ Mochamad Rosichon 
+│   ╞══ Istri: ♀ Faridah Isnayati
+│   │
+│   ├── Anak: D.1. ♀ Dewi Setyani
+│   ├── Anak: D.2. ♂ Ari Indriadi
+│   └── Anak: D.3. ♂ Indra Darmawan
+│ 
+├── Anak: C.6. ♂ Wasilan Slamet Trisno
+│   ╞══ Istri: ♀ Isdiah
+│   │
+│   ├── Anak: D.1. ♀ Ratih Ayu Wulandari
+│   ├── Anak: D.2. ♂ Adimas Budi Tjahyadi
+│   └── Anak: D.3. ♀ Dian Hapsari
+│ 
+├── Anak: C.7. ♀ Sri Hartati
+│ 
+└── Anak: C.8. ♀ Sri Utami
+    ╞══ Suami: ♂ Denny Kusnanda
+    │
+    ├── Anak: D.1. ♀ Widya Paramita
+    ├── Anak: D.2. ♂ Bayu Erlangga
+    └── Anak: D.3. ♂ Krisna Mahendra
+
+. B.5.A.7. ♀ Soemarni
+╞══ Suami: ♂ H. Busro Marlim
+│ 
+├── Anak: C.1. ♀ Umi Istiqomah (aa)
+│   ╞══ Suami: ♂ Dr. Ibu Madjah
+│   │
+│   ├── Anak: D.1. ♂ Achmad Budianto
+│   ├── Anak: D.2. ♂ Muh. Sudarmono
+│   └── Anak: D.3. ♂ Muh. Sulistio
+│
+└── Anak: C.2. ♂ Muh. Isnu Adji (aa)
+    ╞══ Istri: ♀ Sartini Asih
+    │
+    ├── Anak: D.2. ♂ Arda Wisnu Widjaja
+    └── Anak: D.3. ♀ Bertaliana Puspitaningrum
+
+. B.6.A.7. ♂ Soemarto Soerohatmodjo
+╞══ Istri: ♀ Sri Hardinah
+│ 
+├── Anak: C.1. ♀ Wulandari Sri Isnaeni
+│   ╞══ Suami: ♂ R.A. Sidik
+│   │
+│   └── Anak: D.1. ♂ Eddy Nugroho Is Prasetyo 
+│ 
+├── Anak: C.2. ♂ Eddy Ismoyo
+│ 
+├── Anak: C.3. ♂ Eddy Ismudjayanto
+│   ╞══ Istri: ♀ Afthina
+│   │
+│   ├── Anak: D.1. ♀ Yulia Istiana
+│   ├── Anak: D.2. ♀ Sri Ismaryati
+│   └── Anak: D.3. ♂ Aftriani Wijayanto
+│ 
+├── Anak: C.4. ♂ Eddy Ismartono (TB)
+│ 
+├── Anak: C.5. ♀ Sri Ismaryanti (TB)
+│ 
+├── Anak: C.6. ♀ Sri Ismartinah
+│ 
+├── Anak: C.7. ♂ Eddy Ismartoyo
+│   ╞══ Istri: ♀ Endang Wirasati
+│   │
+│   ├── Anak: D.1. ♀ Retno Purwandari
+│   └── Anak: D.2. ♂ Bima Prasetya
+│ 
+├── Anak: C.8. ♂ Eddy Isbiandono
+│   ╞══ Istri: ♀ Tris Trianingsih
+│   │
+│   ├── Anak: D.1. ♂ Rama Imam Santoso 
+│   ├── Anak: D.2. ♂ Romi Imam Sulaeman
+│   └── Anak: D.3. ♀ Rina Nur Rochma
+│ 
+├── Anak: C.9. ♀ Sri Nur Isdayanti
+│   ╞══ Suami: ♂ T. Joko Purnomo
+│   │
+│   ├── Anak: D.1. ♂ Adi Purwanto Nur Atmojo
+│   ├── Anak: D.2. ♂ Dimas Darmawan Nur Atmojo 
+│   ├── Anak: D.3. ♀ Indrawati Purnamaningsih Nur Atmojo
+│   ├── Anak: D.4. ♂ Indra Wijayanto Nur Atmojo
+│   └── Anak: D.5. ♂ Lingga Wijayanto Nur Atmojo
+│ 
+├── Anak: C.10. ♂ Eddy Isnuaji (aa ibu Busro Marlim)
+│ 
+├── Anak: C.11. ♂ Eddy Ismuhargono
+│   ╞══ Istri: ♀ Lindriati
+│   │
+│   ├── Anak: D.1. ♀ Ismardiyanti
+│   └── Anak: D.2. ♂ Ismugo Atmojo
+│ 
+└── Anak: C.12. ♀ Sri Dewi Dyah Iskatoningsih
+    ╘══ Suami: ♂ Derajatullah
+

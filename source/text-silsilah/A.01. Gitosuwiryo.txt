@@ -1,0 +1,305 @@
+. A.1. ♂ Gitosuwiryo
+│
+├── Anak: B.1. ♂ Walidi/ Gitosuwiryo II
+├── Anak: B.2. ♂ Dempok (TB)
+├── Anak: B.3. ♂ Jalitheng Wimbobujono
+├── Anak: B.4. ♀ Menok Joyosumarto
+└── Anak: B.5. ♀ Mening Brotomiharjo
+
+. B.1.A.1. ♂ Walidi/ Gitosuwiryo II
+│
+├── Anak: C.1. ♀ Marsinah
+│   ╞══ Suami: ♂ Sarwono Surohadikusumo
+│   │
+│   ├── Anak: D.1. ♀ Sri Supeni Shd, SH (katjiek) 
+│   │
+│   ├── Anak: D.2. ♂ Katjuk Gambiro Shd
+│   │   ╞══ Istri: ♀ Ita Yunus, SH
+│   │   │
+│   │   └── Anak: E.1. ♂ Yoedani Shd, SE (Dhani)
+│   │
+│   ├── Anak: D.3. ♀ Sri Sayekti Shd (TB)
+│   │
+│   ├── Anak: D.4. ♀ Sri Pangastuti Shd (Toetik/ Menoek), Drg
+│   │   ╞══ Suami: ♂ Anazir Soelaiman, Drg
+│   │   │
+│   │   ├── Anak: E.1. ♂ Ir. Eri Primariya Ananta Kusuma
+│   │   ├── Anak: E.2. ♂ Ir. Ira Oktavia Dwi Ananta Kusuma
+│   │   └── Anak: E.3. ♀ Ir. Mastria Putrira Eliyana Ananta Kusuma
+│   │
+│   ├── Anak: D.5. ♂ Sabdono Shd
+│   │   ╞══ Istri: ♀ Eva Rampen
+│   │   │
+│   │   ├── Anak: E.1. ♀ Deviana S
+│   │   │   ╘══ Suami: ♂ Oetomo Irfan Wiropranoto
+│   │   │
+│   │   ├── Anak: E.2. ♂ Suriyantoro Shd (Doni)
+│   │   ├── Anak: E.3. ♂ Adriyanto Shd (Andree)
+│   │   └── Anak: E.4. ♀ Evita Shd (Vita)
+│   │
+│   ├── Anak: D.6. ♀ Sri Hartini (Tien) 
+│   │   ╞══ Suami: ♂ Soembogo Banu Iskandar
+│   │   │
+│   │   ├── Anak: E.1. ♂ Ir. Sigid
+│   │   ├── Anak: E.2. ♂ Singgih
+│   │   │   ╞══ Istri: ♀ Tama
+│   │   │   │
+│   │   │   ├── Anak: F.1. ♀ Sita
+│   │   │   └── Anak: F.2. ♂ Au
+│   │   │
+│   │   ├── Anak: E.3. ♂ Sidik
+│   │   ├── Anak: E.4. ♀ Yanti
+│   │   └── Anak: E.5. ♀ Diah
+│   │
+│   ├── Anak: D.7. ♀ Sri Lestari Shd
+│   │   ╞══ Suami: ♂ Nurindo Dadi (Nunung)
+│   │   │
+│   │   ├── Anak: E.1. ♀ Indria Lestari Pratiwi, Dra Psi (Ria)
+│   │   └── Anak: E.2. ♂ Arinda Dwi Haryo Sujadi, SH (Ari)
+│   │
+│   ├── Anak: D.8. ♀ Kol Tek Ir. Sumbodo Shd
+│   │   ╞══ Suami: ♂ Wiswayani Sulaksono
+│   │   │
+│   │   ├── Anak: E.1. ♀ Gadis Hez Kamila Kharisma (Gadis)
+│   │   └── Anak: E.2. ♂ Rezky Kharisma Fabrianto (Eki)
+│   │
+│   └── Anak: D.9. ♂ Bambang Budiyotomo Shd
+│
+└── Anak: C.2. ♂ Kaelani (TB)
+
+. B.2.A.1. ♂ Dempok (TB)
+
+. B.3.A.1. ♂ Jalitheng Wimbobujono
+│
+├── Anak: C.1. ♀ Sri Wuryantinah
+│   ╞══ Suami: ♂ Purwadi, Bsc
+│   │
+│   ├── Anak: D.1. ♂ MF Isharso (aa)
+│   └── Anak: D.2. ♀ Novita Rahayu (aa)
+│
+├── Anak: C.2. ♂ Wuryadi
+│   ╞══ Suami: ♀ Sri Kadariyah
+│   │
+│   ├── Anak: D.1. ♀ Dewi Anggraini
+│   ├── Anak: D.2. ♀ Ratri Dwi Utami
+│   ├── Anak: D.3. ♀ Dini Tri Wiyati
+│   └── Anak: D.4. ♀ Palupi Wuriarti
+│
+└── Anak: C.2. ♀ Siti Aisyah
+    ╞══ Suami: ♂ Sartono, BA
+    │
+    ├── Anak: D.1. ♂ Himawan Sartono
+    └── Anak: D.2. ♂ Nugroho Tedjo Sukmono
+
+. B.4.A.1. ♀ Menok 
+╞══ Suami : ♂ Joyosumarto
+│
+├── Anak: C.1. ♀ Sayid Racmad (TB)
+│
+├── Anak: C.2. ♂ Rusminah
+│   ╞══ Suami: ♂ Sasongko
+│   │
+│   ├── Anak: D.1. ♂ Ir. Sasdariyono
+│   │   │
+│   │   ├── Anak: E.1. ♀ Ir. Titik Retno Dewanti
+│   │   │   ╘══ Suami: ♂ Ibnu Aji Hermawan
+│   │   │
+│   │   ├── Anak: E.2. ♂ Oki Aryo Kuncoro
+│   │   ├── Anak: E.3. ♀ Dra. Damayanti Retno Hapsari
+│   │   └── Anak: E.4. ♀ Anita Retno Dewayanti
+│   │
+│   └── Anak: D.2. ♀ Sasdariyati, BA
+│
+├── Anak: C.3. ♂ Sayid Oemar
+│   ╞══ Istri: ♀ Moedjilah
+│   │
+│   ├── Anak: D.1. ♀ Agoes Soebekti Setyabudi
+│   │   ╞══ Istri: ♀ Hambar Supatmiyati
+│   │   │
+│   │   ├── Anak: E.1. ♀ Wahyu Adi Tunggal Purwaningsih
+│   │   └── Anak: E.2. ♂ Hari Purnomo Cahyo Nugroho
+│   │
+│   ├── Anak: D.2. ♀ Agoes Budiharjo Setyobudi
+│   │   ╞══ Istri: ♀ Sri Heri Parkendriyah
+│   │   │
+│   │   ├── Anak: E.1. ♂ Priyo Pratomo Budiharjo
+│   │   ├── Anak: E.2. ♀ Widuri Putri Lestari
+│   │   ├── Anak: E.3. ♀ Diah Astuti Wulandari
+│   │   └── Anak: E.4. ♂ Tony Mufriadi Budiharjo
+│   │
+│   ├── Anak: D.3. ♀ Endang Yunu Astuti Tri Tungga Dewi
+│   │   │   ╘══ Suami: ♂ Nur Sidik
+│   │   │
+│   │   ├── Anak: E.1. ♂ Nurul Febrianti
+│   │   └── Anak: E.2. ♀ Kiki Kurniawan
+│   │
+│   ├── Anak: D.4. ♀ Endang Widiyanti Setya Ningsih
+│   │   │   ╘══ Suami: ♂ Achmad Arief
+│   │   │
+│   │   └── Anak: E.2. ♀ Devi Arifieka
+│   │
+│   ├── Anak: D.5. ♀ Endang Widiyanti Setya Ningrum
+│   │   │   ╘══ Suami: ♂ Prayoga Budi
+│   │   │
+│   │   ├── Anak: E.1. ♂ Andi Bawono Utomo
+│   │   └── Anak: E.2. ♀ Tika Nurhidayati
+│   │
+│   ├── Anak: D.6. ♂ Agoes Widjayanto Kusumo Budi
+│   │   ╞══ Istri: ♀ Ken Julas Agoesrini
+│   │   │
+│   │   ├── Anak: E.1. ♀ Rindia Fani Kusumaningtias
+│   │   └── Anak: E.2. ♂ Rika Adi Kusuma
+│   │
+│   ├── Anak: D.7. ♀ Endang Widiastuti Rahayu
+│   │   ╞══ Suami: ♂ Wiharto
+│   │   │
+│   │   ├── Anak: E.1. ♀ Dias Ayu Hapsari Widjayanti
+│   │   ├── Anak: E.2. ♂ Dimas Aryo Adi Wibowo
+│   │   └── Anak: E.3. ♂ Setyo Aji Bagus Panuntun
+│   │
+│   ├── Anak: D.8. ♀ Agoes Hariadi Purnomo
+│   │   ╞══ Istri: ♀ Sunarsih
+│   │   │
+│   │   ├── Anak: E.1. ♀ Fery Ditika Nugroho
+│   │   └── Anak: E.2. ♂ Stenter Riky Purnomo
+│   │
+│   ├── Anak: D.9. ♀ Agoes Nugroho Edi Wibowo
+│   │   ╞══ Istri: ♀ Ana Rahmaningrum
+│   │   │
+│   │   └── Anak: E.1. ♂ Okta Adi Nugroho
+│   │
+│   └── Anak: D.10. ♀ Agoes Setyawan Gunadarma
+│
+├── Anak: C.4. ♀ Mariam
+│   ╞══ Suami: ♂ Sumedi Sastroprajoko
+│   │
+│   ├── Anak: D.1. ♀ Suko Heni 
+│   │   ╞══ Suami: ♂ Simon R.
+│   │   │
+│   │   ├── Anak: E.1. ♀ Ir. Marlena Sasmiyati
+│   │   │   ╞══ Suami: ♂ Ir. Herman Pradopo
+│   │   │   │
+│   │   │   └── Anak: F.1. ♂ Nandi Wardana Adhiyatmika
+│   │   │
+│   │   ├── Anak: E.2. ♂ Dwipayana Samyasa Nugraha, SP
+│   │   │
+│   │   └── Anak: E.3. ♀ Dyah mitra Mahendra Wasti
+│   │       ╘══ Suami: ♂ Grans Milburn
+│   │
+│   ├── Anak: D.2. ♀ Suko Mini
+│   │   ╞══ Suami: ♂ Abimanjoe Sosrokusumo
+│   │   │
+│   │   ├── Anak: E.1. ♀ Ari Wahyu Kusumaningdiah Sukawati
+│   │   └── Anak: E.2. ♂ Beny Wahyu Suka Wibowo
+│   │
+│   ├── Anak: D.3. ♀ Suko Adi Wartini
+│   │   ╞══ Suami: ♂ Prof. Dr. Ir. Soemantri
+│   │   │
+│   │   ├── Anak: E.1. ♀ Dewi Tri Wartini
+│   │   │   ╘══ Suami: ♂ Ferdi Budidarmo
+│   │   │
+│   │   ├── Anak: E.2. ♂ Widiarto Suro Utomo
+│   │   └── Anak: E.3. ♂ Nur Rochmat Aryo Wiwoho
+│   │
+│   ├── Anak: D.4. ♂ Ir. Suko Edi Leganto
+│   │   ╞══ Istri: ♀ Titik Herwanti
+│   │   │
+│   │   ├── Anak: E.1. ♂ Ananta Sriloka Bawana Wisnu Brata
+│   │   ├── Anak: E.2. ♀ Arum Bawana Setiasari
+│   │   └── Anak: E.3. ♀ Adibawana Wulan Sahitri
+│   │
+│   ├── Anak: D.5. ♀ Ir. Suko Adi Wahyuni
+│   │   ╞══ Suami: ♂ Ir. Isnawan
+│   │   │
+│   │   ├── Anak: E.1. ♀ Dyah Endah Pitaloka Sahitri
+│   │   └── Anak: E.3. ♂ Aditya Wahyu Nugraha
+│   │
+│   └── Anak: D.6. ♂ Ir. Suko Edi Yuwono
+│       ╞══ Istri: ♀ Endang Budiarti
+│       │
+│       ├── Anak: E.1. ♀ Nur Cahya Mayananta
+│       ├── Anak: E.2. ♂ Kartika Parameswari
+│       └── Anak: E.3. ♂ Dyah Lukita Wardhani
+│
+├── Anak: C.5. ♀ Fatimah
+│   ╘══ Suami: ♂ Santoso (TB)
+│
+├── Anak: C.6. ♀ Siti Chadijah
+│   ╞══ Suami: ♂ Sutarmo
+│   │
+│   ├── Anak: D.1. ♀ Ferry Sudaryanto (aa)
+│   └── Anak: D.2. ♀ Wijanarko (aa)
+│
+├── Anak: C.7. ♂ Ir. Sayid Achmad
+│   ╞══ Istri: ♀ Sri Peni
+│   │
+│   ├── Anak: D.1. ♀ Dra. Achyani Dwi Rahyuningsih
+│   │   ╞══ Suami: ♂ Ir. Krisniantoko
+│   │   │
+│   │   ├── Anak: E.1. ♂ Ananto Eko Priyambodo
+│   │   ├── Anak: E.2. ♀ Brahmantyo Dwi Novianto
+│   │   └── Anak: E.3. ♀ Endarco Yoga Swara
+│   │
+│   ├── Anak: D.2. ♂ Drs Martono Tri Wibowo
+│   │
+│   └── Anak: D.3. ♀ Drg. Widiastuti Saptoriani
+│       ╞══ Suami: ♂ Ir. Sumartoyo
+│       │
+│       └── Anak: E.1. ♂ Andika Yopi Setiyawan Putera
+│   
+├── Anak: C.8. ♂ Ir. Sayid Masduki
+│   ╞══ Istri: ♀ 
+│   │
+│   ├── Anak: D.1. ♀ Setyowati Manis Palwosari
+│   │   ╞══ Suami: ♂ Indra Perdana
+│   │   │
+│   │   └── Anak: E.1. ♂ Syaelendra Said
+│   │
+│   ├── Anak: D.2. ♂ Arief Tetuko Harimurti
+│   ├── Anak: D.3. ♂ Tri Yuli Biso Warno 
+│   └── Anak: D.4. ♀ Verawati Sari Handayani
+│
+└── Anak: C.9. ♀ Kusngaimah
+    ╞══ Suami: ♂ Drs. Ramelan
+    │
+    ├── Anak: D.1. ♀ Wulanita Efiandari
+    └── Anak: D.2. ♀ Rooswieda Kusnidar
+
+. B.5.A.1. ♀ Mening
+╞══ Suami : ♂ Brotomiharjo
+│
+└── Anak: C.1. ♂ Suparno
+    ╞══ Istri: ♀ Wahyu Surti
+    │
+    ├── Anak: D.1. ♂ Bambang Suparminto
+    │   ╞══ Istri: ♀ Endang Susilowti
+    │   │
+    │   ├── Anak: E.1. ♀ Lusiana Wahyu Permana Wati
+    │   └── Anak: E.2. ♀ Indriana Wahyuning Tyas
+    │
+    ├── Anak: D.2. ♂ Andi Setiadji
+    │   ╞══ Istri: ♀ Endang Prastuti
+    │   │
+    │   ├── Anak: E.1. ♀ Nuning Parmana Sari
+    │   └── Anak: E.2. ♀ Ana Andi Ana
+    │
+    ├── Anak: D.3. ♂ Hilmi W. Trimurti
+    │   ╞══ Istri: ♀ Yuliasaptoyo
+    │   │
+    │   ├── Anak: E.1. ♂ Aryo Wahyu Trenggono
+    │   ├── Anak: E.2. ♂ Nanok Wahyu Wicaksono
+    │   └── Anak: E.3. ♀ Octa
+    │
+    ├── Anak: D.4. ♂ Yupi Wahyu Adi S
+    │   ╞══ Istri: ♀ Dar-darsilah
+    │   │
+    │   ├── Anak: E.1. ♂ Yusuf Wahyu Fiandani
+    │   ├── Anak: E.2. ♀ Ajeng Wahyu Utami
+    │   ├── Anak: E.3. ♀ Sri Irni Wahyu Apriliani
+    │   └── Anak: E.4. ♂ Irfan F. Wahyudi Putra
+    │
+    └── Anak: D.5. ♀ Edmi W. Parmaning Dyah
+        ╞══ Istri: ♀ Soni Sumarsono
+        │
+        ├── Anak: E.1. ♀ Ricky Wahyu Wicaksono
+        └── Anak: E.2. ♂ Indah Desy Wahyu Hapsari

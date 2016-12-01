@@ -1,0 +1,23 @@
+. Gitodipuro
+│
+╞══ Istri ke-1: ♀ Putri Mangunredjo
+├── Anak: A.1. ♂ Gitosuwiryo
+├── Anak: A.2. ♀ Hardopranoto
+│
+╞══ Istri ke-2: ♀ Putri Kartodipuro
+├── Anak: A.3. ♂ Gitosudirjo
+├── Anak: A.4. ♀ Djoyopawoko
+├── Anak: A.5. ♀ Sutopuspito
+├── Anak: A.6. ♂ Gitosaputro
+│
+╞══ Istri ke-3: ♀ dari Djuwangi
+├── Anak: A.7. ♀ Surohatmojo
+├── Anak: A.8. ♂ Kartohardjendro (ngusman)
+├── Anak: A.9. ♂ Ruslan
+├── Anak: A.10. ♀ Mangunsudiro
+├── Anak: A.11. ♂ Sudarjo
+│
+╞══ Istri ke-4: ♀ Putri dari Gagatan
+└── Anak: A.12. ♂ Brototenoyo
+
+Keterangan: Sebelum Eyang Gitodipuro kromo dengan isteri 1 s/d 4 beliau sebenarnya telah kromo dengan Djakalara (Mbah Sapen) berputra seorang bernama Sukandar. Mbah Sapen kemudian meninggal dan putranya juga meninggal. Oleh sebab itu tidak kami masukkan ke dalam Silsilahan Gitodipuran ini. Hanya sebagai catatan untuk diketahui oleh Putro Wayah.

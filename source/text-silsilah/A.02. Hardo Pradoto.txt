@@ -1,0 +1,147 @@
+. A.2. ♀ Hardo Pradoto
+│
+├── Anak: B.1. ♂ Projopuspito 
+├── Anak: B.2. ♂ Margosutadyo (TB)
+├── Anak: B.3. ♂ Soenardi (TB)
+├── Anak: B.4. ♂ Soentoro (TB)
+├── Anak: B.5. ♀ Soepadmi Prodjosumarmo (TB)
+├── Anak: B.6. ♂ Gito Puspito
+└── Anak: B.7. ♀ Soentari (TB)
+
+
+. B.1.A.2. ♂ Projopuspito 
+╞══ Istri : ♀ Soedarmi
+│
+├── Anak: C.1. ♂ Purwono 
+│   ╞══ Istri: ♀ Busanah
+│   │
+│   └── Anak: D.1. ♀ Dewi Eko Puspito
+│
+├── Anak: C.2. ♂ Martono
+│   ╞══ Istri: ♀ Siti Chodijah
+│   │
+│   ├── Anak: D.1. ♂ Djarot
+│   ├── Anak: D.1. ♂ Tutung
+│   └── Anak: D.1. ♀ Wiwid
+│
+├── Anak: C.3. ♂ Moersito (TB)
+│
+├── Anak: C.4. ♀ Moersanah
+│   ╞══ Suami: ♂ Iman Achmad
+│   │
+│   ├── Anak: D.1. ♂ Wowok
+│   ├── Anak: D.2. ♂ Budi
+│   └── Anak: D.3. ♀ Wati
+│
+├── Anak: C.5. ♀ Mardjanah
+│   ╞══ Suami: ♂ Peter
+│   │
+│   ├── Anak: D.1. ♀ Sandra
+│   └── Anak: D.2. ♂ Coet
+│
+└── Anak: C.6. ♀ Sri Redjeki
+    ╞══ Suami: ♂ Soehardi
+    │
+    ├── Anak: D.1. ♂ Heru
+    ├── Anak: D.2. ♀ Rini
+    ├── Anak: D.3. ♀ Tuti
+    ├── Anak: D.4. ♀ Veni
+    └── Anak: D.5. ♂ Agung
+
+. B.2.A.2. ♂ Margosutadyo Hartopradoto
+Keterangan: Belum menerima data.
+
+. B.3.A.2. ♂ Soenardi Hartopradoto (TB)
+
+. B.4.A.2. ♂ Soentoro (TB)
+
+. B.5.A.2. ♀ Soepadmi Prodjosumarmo (TB)
+
+. B.6.A.2. ♂ Soekadi Gitopuspito
+╞══ Istri : ♀ Sutikach
+│
+├── Anak: C.1. ♂ Soediro
+│   ╞══ Istri: ♀ Sri
+│   │
+│   ├── Anak: D.1. ♂ Eko Prasetyo (TB)
+│   ├── Anak: D.2. ♀ Dwi handayani
+│   ├── Anak: D.3. ♂ Drs. Tri Nugroho
+│   ├── Anak: D.4. ♀ Retno Astuti
+│   ├── Anak: D.5. ♂ Drs. Wawan Setiawan
+│   └── Anak: D.6. ♂ Hery
+│
+├── Anak: C.2. ♀ Soelastri 
+│   ╞══ Suami: ♂ Achmad Ilham
+│   │
+│   ├── Anak: D.1. ♂ Drs. Muhammadi
+│   │   ╞══ Istri: ♀ Nur Aini Farida Ariyani
+│   │   │
+│   │   ├── Anak: E.1. ♀ Andriani Ika Wati 
+│   │   ├── Anak: E.2. ♀ Isnaini
+│   │   ├── Anak: E.3. ♂ Rendra
+│   │   └── Anak: E.4. ♀ Salmah Lindawati
+│   │
+│   ├── Anak: D.2. ♂ Muhammad Nur
+│   │   ╞══ Istri: ♀ Endang Kinasih
+│   │   │
+│   │   ├── Anak: E.1. ♂ Eko Heri Candraputra
+│   │   └── Anak: E.2. ♂ Dwi Agus Priyono
+│   │
+│   ├── Anak: D.3. ♀ Diti Sukriah
+│   │   ╞══ Suami: ♂ Karsito
+│   │   │
+│   │   ├── Anak: E.1. ♀ Neni Ferawati
+│   │   ├── Anak: E.2. ♂ Kurnia Agung Nugroho
+│   │   └── Anak: E.3. ♀ Nia Nurhasanah
+│   │
+│   ├── Anak: D.4. ♀ Khomsatun
+│   │   ╞══ Suami: ♂ Ibrahim Sholeh, SM. PH.
+│   │   │
+│   │   └── Anak: E.1. ♂ Arief Novianto
+│   │
+│   ├── Anak: D.5. ♂ Drs. Abdul Mutholib
+│   │   ╞══ Istri: ♀ Ida Maryani
+│   │   │
+│   │   └── Anak: E.1. ♂ Yusuf Bangkit Rahadyan Putra
+│   │
+│   ├── Anak: D.6. ♂ Fajar A. Abdulah
+│   ├── Anak: D.7. ♂ Drs. Khoirunnisyak
+│   ├── Anak: D.8. ♂ Syarif Hidayatullah
+│   ├── Anak: D.9. ♀ Siti Musrifah
+│   ├── Anak: D.10. ♀ Nurul Hidayah
+│   ├── Anak: D.11. ♂ Yasir Mustofah
+│   └── Anak: D.12. ♂ Syaiful Anwar
+│
+├── Anak: C.3. ♀ Soedariyah
+│   ╞══ Suami: ♂ 
+│   │
+│   ├── Anak: D.1. ♂ Wrasono Iman Satoso
+│   ├── Anak: D.2. ♂ Agus Yulianto
+│   ├── Anak: D.3. ♂ Agung Warsono
+│   ├── Anak: D.4. ♂ Ir. Edi Wibowo
+│   └── Anak: D.5. ♀ Dra. Rini Damayanti
+│
+├── Anak: C.4. ♂ Soedarsono, Bsc
+│   ╞══ Istri: ♀ 
+│   │
+│   ├── Anak: D.1. ♂ Drs. Muwafik Hidayat
+│   ├── Anak: D.2. ♂ Ir. Erwin Hidayat
+│   └── Anak: D.3. ♂ Ari
+│
+├── Anak: C.5. ♀ Hj. Soedaryati 
+│   ╞══ Suami: ♂ 
+│   │
+│   ├── Anak: D.1. ♀ Feny Nur Aini
+│   ├── Anak: D.2. ♂ Dr. Achmad Yani
+│   ├── Anak: D.3. ♀ Dr. Rusmawati
+│   ├── Anak: D.4. ♀ Ir. Yunita Irawati
+│   └── Anak: D.5. ♂ Anwar Mustofa
+│
+└── Anak: C.6. ♂ Sardjono
+    ╞══ Istri: ♀ 
+    │
+    ├── Anak: D.1. ♀ Siandra Prima Setyawati
+    ├── Anak: D.2. ♀ Indri Puspita Sari
+    └── Anak: D.3. ♂ Fery
+
+. B.7.A.2. ♀ Soentari (TB)

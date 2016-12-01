@@ -1,0 +1,153 @@
+. A.10. ♀ Siti Aminah (besek)
+╞══ Suami: ♂ Mangoensoediro (sayid Djihadi)
+│
+├── Anak: B.1. ♀ Sri (ajal alit)
+├── Anak: B.2. ♀ Siti Sawarni
+├── Anak: B.3. ♂ Katjoeng (ajal alit)
+├── Anak: B.4. ♂ Tjoek (ajal alit)
+├── Anak: B.5. ♀ Noek Siti Sawarsi
+├── Anak: B.6. ♀ Siti Sawarsi (TB)
+├── Anak: B.7. ♀ Siti Sawarin
+├── Anak: B.8. ♀ Siti Saparin (ajal alit)
+├── Anak: B.9. ♂ Pratiknyo
+├── Anak: B.10. ♂ Pradigdo (TB)
+├── Anak: B.11. ♂ Pratisno (ajal alit)
+└── Anak: B.12. ♂ Soeprapto Wresni Wiro
+
+. B.2.A.10. ♀ Siti Sawarni
+╞══ Suami: ♂ Soediyono
+│
+├── Anak: C.1. ♀ Sri Redjeki
+│   ╞══ Suami: ♂ Haryono
+│   │
+│   ├── Anak: D.1. ♂ Widodo Hanggoro
+│   │   ╞══ Istri: ♀ Ria
+│   │   │
+│   │   └── Anak: E.1.
+│   │
+│   ├── Anak: D.2. 
+│   │
+│   ├── Anak: D.3. ♂ Budiharjo 
+│   │   ╞══ Istri: ♀ Ana
+│   │   │
+│   │   └── Anak: E.1. ♀ Adithya
+│   │
+│   ├── Anak: D.4. ♀ Nurika Angrahini
+│   │   ╞══ Suami: ♂ Purnawan Eko
+│   │   │
+│   │   └── Anak: E.1. ♀ Andriawan
+│   │
+│   └── Anak: D.5. ♂ Agus Wibisono
+│       ╞══ Istri: ♀ 
+│       │
+│       └── Anak: E.1. ♀
+│
+├── Anak: C.2. ♀ Kusmiranti
+│   ╞══ Suami: ♂ 
+│   │
+│   ├── Anak: D.1.
+│   ├── Anak: D.2. 
+│   └── Anak: D.3. 
+│
+├── Anak: C.3. ♀ Tuti Sawitri
+│   ╞══ Suami: ♂ Karel Muhammad
+│   │
+│   └── Anak: D.1. ♀ Maharani Aan
+│
+└── Anak: C.4. ♀ Tri Wahyuni
+    ╞══ Suami: ♂ Drs. Isma'il H.N.
+    │
+    ├── Anak: D.1. ♂ Ir. Ivan Isyunandi
+    ├── Anak: D.2. ♀ Dra. Ririn Isyunani
+    └── Anak: D.3. ♂ Andi Isyunanto
+
+. B.5.A.10. ♀ Noek Siti Sawarsi
+╞══ Suami: ♂ Toerido
+│
+├── Anak: C.1. ♂ Agung Santoso, Bsc
+│   ╘══ Istri: ♀ Eli
+│
+├── Anak: C.2. ♀ Sri Agung Ratu Wangi
+│   ╘══ Suami: ♂ Sunaryo
+│
+├── Anak: C.3. ♂ H. Ir. Agung Prakosa
+│   ╘══ Istri: ♀ Nir Mala
+│
+├── Anak: C.4. ♂ Ir. Agung Prabowo Satrio Lelono
+│   ╘══ Istri: ♀ Ratih Muninggar
+│
+├── Anak: C.5. ♂ Agung Jati Pinilih
+│   ╘══ Istri: ♀ 
+│
+├── Anak: C.6. ♀ Titin Kurniati, BA
+│   ╘══ Suami: ♂ Sutrisno
+│
+├── Anak: C.7. ♂ Agung Rahwono (ajal alit)
+│
+└── Anak: C.8. ♀ Iin, BA
+    ╘══ Suami: ♂ 
+
+. B.7.A.10. ♀ Siti Sawarin
+╞══ Suami: ♂ M. Sanusi
+│
+├── Anak: C.1. ♂ Bambang Setiawan
+│   ╞══ Istri: ♀ Nuryati
+│   │
+│   ├── Anak: D.1. ♀ Handayani Susilaningsih
+│   ├── Anak: D.2. ♂ Haryo Resiadi (Dewo)
+│   ├── Anak: D.3. ♀ Dyah Ratnaning Puri (Dewi)
+│   ├── Anak: D.4. ♀ Endang Estiningsih
+│   ├── Anak: D.5. ♀ Hardini Ratna Puri
+│   ├── Anak: D.6. ♂ Eko
+│   ├── Anak: D.7. ♀ Diah
+│   ├── Anak: D.8. ♂ Adi
+│   ├── Anak: D.9. ♀ Siva
+│   ├── Anak: D.10. ♂ Aji
+│   └── Anak: D.11. ♂ Ari
+│
+├── Anak: C.2. ♀ Retno Setiarsi
+│   ╞══ Suami: ♂ Wiloso Warsitaning Tyas
+│   │
+│   ├── Anak: D.1. ♂ Wira Budi Sutanto
+│   └── Anak: D.2. ♂ Kurniawan Rudi Sanjaya
+│
+├── Anak: C.3. ♂ Yusuf Setiawan
+│   ╞══ Istri: ♀ Yuli
+│   │
+│   └── Anak: D.1. ♂ Kritiana Adi Wibowo
+│
+├── Anak: C.4. ♀ Anis Setiarti
+│   ╞══ Suami: ♂ Suyono
+│   │
+│   └── Anak: D.1. ♂ Ananta
+│
+├── Anak: C.5. ♀ Anik Ulupi
+│   ╞══ Suami: ♂ Sarbini
+│   │
+│   └── Anak: D.1. 
+│
+├── Anak: C.6. ♂ M. Yunus Budi Setiawan (ajal alit)
+│
+├── Anak: C.7. ♂ Didik Setiadi Mujiarjo
+│   ╞══ Istri: ♀ Mik Herawati
+│   │
+│   ├── Anak: D.1. ♀ Nanda Respati
+│   └── Anak: D.2. ♂ Angga Bagus Prakoso
+│
+└── Anak: C.8. ♂ Agung Prasetyo Sami Aji
+
+. B.9.A.10. ♂ Pratiknyo
+│
+├── Anak: C.1. ♂ Ir. Dadang Pratisto
+├── Anak: C.2. ♀ Rike Hernani
+├── Anak: C.3. ♀ Yayuk Sri Rahayu
+├── Anak: C.4. ♀ Sri Redjeki
+├── Anak: C.5. ♀ Siti Aminah
+├── Anak: C.6. ♂ Imam Prakoso
+└── Anak: C.7. ♂ Ari
+
+. B.12.A.10. ♂ Soeprapto Wresni Wiro
+│
+├── Anak: C.1. ♀ Dra. Dewi Anggraini
+├── Anak: C.2. ♀ Ratih Muninggar
+└── Anak: C.3. ♂ Agus Handono
