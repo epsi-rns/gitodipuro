@@ -10,4 +10,4 @@
 . B.2.A.9. ♂ Soedarsono Roeslan
 │
 ├── Anak: C.1. ♀ Sudarti
-└── Anak: C.1. ♀ Sudarni
+└── Anak: C.2. ♀ Sudarni
