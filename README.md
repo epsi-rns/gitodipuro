@@ -5,7 +5,7 @@
 
 *	Istri ke-1: ♀ Putri Mangunredjo
 	<br/>
-*	Anak: [A01.][A01] ♂ Gitosuwiryo]
+*	Anak: [A01.][A01] ♂ Gitosuwiryo
 *	Anak: [A02.][A02] ♀ Hardopranoto
 	<br/><br/>
 

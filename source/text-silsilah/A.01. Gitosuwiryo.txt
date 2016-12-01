@@ -85,7 +85,7 @@
 │   ├── Anak: D.3. ♀ Dini Tri Wiyati
 │   └── Anak: D.4. ♀ Palupi Wuriarti
 │
-└── Anak: C.2. ♀ Siti Aisyah
+└── Anak: C.3. ♀ Siti Aisyah
     ╞══ Suami: ♂ Sartono, BA
     │
     ├── Anak: D.1. ♂ Himawan Sartono
@@ -266,7 +266,7 @@
     └── Anak: D.2. ♀ Rooswieda Kusnidar
 
 . B.5.A.1. ♀ Mening
-╞══ Suami : ♂ Brotomiharjo
+╞══ Suami: ♂ Brotomiharjo
 │
 └── Anak: C.1. ♂ Suparno
     ╞══ Istri: ♀ Wahyu Surti
