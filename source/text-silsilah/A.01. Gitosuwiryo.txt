@@ -94,9 +94,9 @@
 . B.4.A.1. ♀ Menok 
 ╞══ Suami : ♂ Joyosumarto
 │
-├── Anak: C.1. ♀ Sayid Racmad (TB)
+├── Anak: C.1. ♂ Sayid Racmad (TB)
 │
-├── Anak: C.2. ♂ Rusminah
+├── Anak: C.2. ♀ Rusminah
 │   ╞══ Suami: ♂ Sasongko
 │   │
 │   ├── Anak: D.1. ♂ Ir. Sasdariyono
