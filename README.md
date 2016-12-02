@@ -200,7 +200,7 @@ Keterangan: Sebelum Eyang Gitodipuro kromo dengan isteri 1 s/d 4 beliau sebenarn
 [A09B01]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A09/B01.md
 [A09B02]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A09/B02.md
 
-[A10B01]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A10/B01.md
+[A10B02]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A10/B02.md
 [A10B05]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A10/B05.md
 [A10B07]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A10/B07.md
 [A10B09]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A10/B09.md
