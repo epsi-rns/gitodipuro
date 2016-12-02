@@ -114,8 +114,6 @@
     └── Anak: D.10. ♂ Budi Radidyo
         ╘══ Istri: ♀ Puji Lestari
 
-. B.3.A.3. ♂ Soekarto Mangoensoekarto (TB)
-
 . B.4.A.3. ♀ Soekamni Sosromihardjo
 ╞══ Suami: ♂ Sosromihardjo
 │
