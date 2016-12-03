@@ -248,7 +248,7 @@
 │       └── Anak: E.2. ♂ Rizki Radifan Julistyo
 │       
 ├── Anak: C.3. ♀ Dra. Sri Koestati
-│   ╞══ ♂ Suami: ♂ Letkol (purn) Drs. D. Parman
+│   ╞══ Suami: ♂ Letkol (purn) Drs. D. Parman
 │   │
 │   ├── Anak: D.1. ♀ Drg. H. Dian Ekowati
 │   │   ╞══ Suami: ♂ Drs. H. Iksir Warganegara
@@ -266,6 +266,7 @@
 │   │
 │   ├── Anak: D.3. ♂ Ir. Adi Musparno
 │   │   ╞══ Istri: ♀ Rita Mira Sari, SH
+│   │   │
 │   │   └── Anak: E.1. ♂ Muhammad Rezadi
 │   │
 │   └── Anak: D.4. ♂ Ir. Deko Asrianto
