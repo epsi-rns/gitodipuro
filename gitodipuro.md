@@ -1,6 +1,26 @@
-## Ringkas
+## Garwo
 
 ![Garwo][garwo]
+
+Keterangan Garwo Eyang Gitodipuro:
+
+1.	Putri dari eyang Mangunredjo.
+	(cucu Kayi Mojo Pahlawan Nasional)
+
+2.	Putri dari RMT Kartodipuro, Surakarta
+
+3.	Putri dari Juwangi
+
+4.	Putri dari Gagatan. (Mbah Kuning)
+
+Catatan:
+
+	Dari Ibu Ponodiningrat, bahwa Jaka Lara (isteri pertama) Eyang Gitodipuro adalah Mbah Sapen.
+	Karena Mbah Sapen setelah mempunyai putra satu, yaitu Sukandar (ajal alit) lalu seda (meninggal),
+	isteri-isteri beliau adalah yang tersebut di atas.
+
+
+## Ringkas
 
 ♂ Gitodipuro
 	<br/>

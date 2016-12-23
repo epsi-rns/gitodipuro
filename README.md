@@ -2,9 +2,11 @@
 
 ## Silsilah
 
+*	[Diagram Silsilah Gitodipuro][silsilah]
+
 ## Keturunan
 
-*	[Rincian Gitodipuro][gitodipuro]
+*	[Rincian Keturunan Gitodipuro][gitodipuro]
 	<br/>
 
 *	Anak: [A01.][A01] ♂ Gitosuwiryo
@@ -28,6 +30,7 @@
 	<br/><br/>
 
 [gitodipuro]: https://github.com/epsi-rns/gitodipuro/blob/master/gitodipuro.md
+[silsilah]: https://github.com/epsi-rns/gitodipuro/blob/master/silsilah.md
 
 
 [A01]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A01.md
