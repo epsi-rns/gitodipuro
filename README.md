@@ -28,3 +28,17 @@
 	<br/><br/>
 
 [gitodipuro]: https://github.com/epsi-rns/gitodipuro/blob/master/gitodipuro.md
+
+
+[A01]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A01.md
+[A02]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A02.md
+[A03]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A03.md
+[A04]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A04.md
+[A05]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A05.md
+[A06]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A06.md
+[A07]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A07.md
+[A08]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A08.md
+[A09]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A09.md
+[A10]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A10.md
+[A11]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A11.md
+[A12]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A12.md
