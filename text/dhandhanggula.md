@@ -38,23 +38,23 @@ Akad: 5; Senen: 4; Selasa:3; Rebo: 7; Kemis: 8; Jum'at: 6; Sabtu: 9; Pahing: 9; 
 *	Pahing : titi (angel).
 *	Pon    : pamer.
 
-|        |       
-| ------ | ------
-| Akad   | Samudana; tegese sabarang gawe ngati-ati, ora kesusu ngairake kekarepan.
-| Senen  | Samuwa; tegese apa-apa wae kudu njaluk becik.
-| Selasa | Sujana; tegese ngati-ati, ora angger wong dipercaya.
-| Rebo   | Sembada; tegese  sabarang gawe ditandangi kanthi rampung.
-| Kemis  | Suroso; tegese apa-apa dirasak-rasakake.
-| Jum'at | Suci; tegese resik lahir bathinne.
-| Sabtu  | Sesumbung; tegese dhemen mada demen ngalem.
+|        |        |
+| ------ | ------ |
+| Akad   | Samudana; tegese sabarang gawe ngati-ati, ora kesusu ngairake kekarepan. |
+| Senen  | Samuwa; tegese apa-apa wae kudu njaluk becik. |
+| Selasa | Sujana; tegese ngati-ati, ora angger wong dipercaya. |
+| Rebo   | Sembada; tegese  sabarang gawe ditandangi kanthi rampung. |
+| Kemis  | Suroso; tegese apa-apa dirasak-rasakake. |
+| Jum'at | Suci; tegese resik lahir bathinne. |
+| Sabtu  | Sesumbung; tegese dhemen mada demen ngalem. |
 
-|        |       
-| ------ | ------
-| Wage   | Kaku; kakon aten naging setya.
-| Kliwon | Micara, bisa nganggit basa.
-| Legi   | Saguh, sabarang ora nampik.
-| Pahing | Titi ing ati (angel).
-| Pon    | Pamer, mamerake apa kang di darbeki klebu anak putu.
+|        |        |
+| ------ | ------ |
+| Wage   | Kaku; kakon aten naging setya. |
+| Kliwon | Micara, bisa nganggit basa. |
+| Legi   | Saguh, sabarang ora nampik. |
+| Pahing | Titi ing ati (angel). |
+| Pon    | Pamer, mamerake apa kang di darbeki klebu anak putu. |
 
 Candra priyayi kuwi ora mesthi persis, amung mirip, dene menawa Wuku kuwi ora akeh empere. Eman saiki almanak sing ana Wukune wis ora ana, aku biyen duwe, entek kebanjiran.
 
