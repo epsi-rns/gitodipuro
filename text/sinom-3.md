@@ -52,7 +52,7 @@
 	Ingsun aparing pangestu
 	Reharja kang pinanggya
 	Ayem guyub rukun sami
-	Weling ingsun mugi gusti Angalbuna.
+	Weling ingsun mugi Gusti angalbuna.
 
 
 Sinom patang pada iki isi pitutur tindak telung prakara: NISTHA, MADYA, UTAMA.
