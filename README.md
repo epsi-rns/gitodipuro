@@ -10,6 +10,7 @@
 	*	[Sinom][sinom-1]
 	*	[Sinom][sinom-2]
 	*	[Dhandhanggula][dhandhanggula]
+	*	[Sinom][sinom-3]
 
 ## Keterangan Kode/ Tanda-Tanda
 
@@ -54,6 +55,7 @@
 [sinom-1]:       https://github.com/epsi-rns/gitodipuro/blob/master/text/sinom-1.md
 [sinom-2]:       https://github.com/epsi-rns/gitodipuro/blob/master/text/sinom-2.md
 [dhandhanggula]: https://github.com/epsi-rns/gitodipuro/blob/master/text/dhandhanggula.md
+[sinom-3]:       https://github.com/epsi-rns/gitodipuro/blob/master/text/sinom-3.md
 
 [A01]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A01.md
 [A02]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A02.md
