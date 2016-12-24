@@ -1,5 +1,9 @@
 ## Sunan Giri
 
+## Kyai Gulu
+
+![Dari Kyai Gulu][kyai-gulu]
+
 ## Kyai H. Moch Qorib.
 
 ![Dari Moch Qorib][moch-qorib]
@@ -42,6 +46,6 @@ Keterangan di atas didapat penulis dari ceritera/ fatwa/ pangandiko:
 7.	Alm. Ibu Sastrosadarno
 
 
-
+[kyai-gulu]:  https://github.com/epsi-rns/gitodipuro/blob/master/source/svg/kyai-gulu.png
 [moch-qorib]: https://github.com/epsi-rns/gitodipuro/blob/master/source/svg/moch-qorib.png
 [kyai-yahya]: https://github.com/epsi-rns/gitodipuro/blob/master/source/svg/kyai-yahya.png
