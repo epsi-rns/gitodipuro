@@ -6,6 +6,8 @@
 
 *	[Fatwa Ibu/ Eyang Ponodiningrat I][fatwa]
 
+	*	[Midjil][midjil]
+
 ## Keterangan Kode/ Tanda-Tanda
 
 *	[Keterangan Kode/ Tanda-Tanda][kode]
@@ -43,8 +45,10 @@
 [silsilah]:   https://github.com/epsi-rns/gitodipuro/blob/master/silsilah.md
 [gitodipuro]: https://github.com/epsi-rns/gitodipuro/blob/master/gitodipuro.md
 
-[fatwa]:      https://github.com/epsi-rns/gitodipuro/blob/master/text/fatwa.md
 [kode]:       https://github.com/epsi-rns/gitodipuro/blob/master/text/kode.md
+[fatwa]:      https://github.com/epsi-rns/gitodipuro/blob/master/text/fatwa.md
+[midjil]:     https://github.com/epsi-rns/gitodipuro/blob/master/text/midjil.md
+
 
 
 [A01]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A01.md
