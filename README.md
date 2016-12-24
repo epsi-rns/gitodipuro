@@ -7,6 +7,7 @@
 *	[Fatwa Ibu/ Eyang Ponodiningrat I][fatwa]
 
 	*	[Midjil][midjil]
+	*	[Sinom][sinom-1]
 
 ## Keterangan Kode/ Tanda-Tanda
 
@@ -48,6 +49,7 @@
 [kode]:       https://github.com/epsi-rns/gitodipuro/blob/master/text/kode.md
 [fatwa]:      https://github.com/epsi-rns/gitodipuro/blob/master/text/fatwa.md
 [midjil]:     https://github.com/epsi-rns/gitodipuro/blob/master/text/midjil.md
+[sinom-1]:    https://github.com/epsi-rns/gitodipuro/blob/master/text/sinom-1.md
 
 
 
