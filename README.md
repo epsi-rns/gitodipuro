@@ -1,9 +1,10 @@
 ## Kata Pengantar
 
+*	[Kata Pengantar][pengantar]
+
 ## Keterangan Kode/ Tanda-Tanda
 
 *	[Keterangan Kode/ Tanda-Tanda][kode]
-
 
 ## Silsilah
 
@@ -35,6 +36,7 @@
 	<br/><br/>
 
 [kode]: https://github.com/epsi-rns/gitodipuro/blob/master/kode.md
+[pengantar]: https://github.com/epsi-rns/gitodipuro/blob/master/pengantar.md
 [gitodipuro]: https://github.com/epsi-rns/gitodipuro/blob/master/gitodipuro.md
 [silsilah]: https://github.com/epsi-rns/gitodipuro/blob/master/silsilah.md
 

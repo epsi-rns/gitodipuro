@@ -1,6 +1,8 @@
 ## Navigasi
 
-[Halaman Utama][up]
+[Halaman Utama][up] 
+
+[Gitodipuro][gitodipuro]
 
 ## Keterangan Kode/ Tanda-Tanda
 
