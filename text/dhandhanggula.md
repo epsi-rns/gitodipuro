@@ -6,7 +6,7 @@
 
 ## Neptu Dina lan Pasaran
 
-Dhandanggula
+Dhandhanggula
 
 	Dina akad lima neptuneki,
 	Senen papat Salasanya tiga,
