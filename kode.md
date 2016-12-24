@@ -19,11 +19,15 @@
 	|  I  | Artinya | Debog Bosok   | dari Gitodipuro | Piut Miut     |
 
 2.	A.1. Berarti anak ke 1 dari Gitodipuro
+	
 	A.1.B.2. Berarti cucu ke 2 dari Gitodipuro ... dst
 
 3.	♂ = Laki-laki
+	
 	♀ = Perempuan
+	
 	T.B. = Tidak berputra = Tidak berketurunan = Tidak berlanjut
+	
 	(aa) = anak angkat/ adopsi = anaknya suami/ isteri
 
 4.	Ajal Alit artinya meninggal waktu masih kecil
