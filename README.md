@@ -8,6 +8,7 @@
 
 	*	[Midjil][midjil]
 	*	[Sinom][sinom-1]
+	*	[Sinom][sinom-2]
 
 ## Keterangan Kode/ Tanda-Tanda
 
@@ -50,8 +51,7 @@
 [fatwa]:      https://github.com/epsi-rns/gitodipuro/blob/master/text/fatwa.md
 [midjil]:     https://github.com/epsi-rns/gitodipuro/blob/master/text/midjil.md
 [sinom-1]:    https://github.com/epsi-rns/gitodipuro/blob/master/text/sinom-1.md
-
-
+[sinom-2]:    https://github.com/epsi-rns/gitodipuro/blob/master/text/sinom-2.md
 
 [A01]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A01.md
 [A02]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A02.md
