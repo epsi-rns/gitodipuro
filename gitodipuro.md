@@ -1,6 +1,8 @@
 ## Navigasi
 
-[Halaman Utama][up] 
+[Halaman Utama][up]
+
+[Diagram Silsilah Gitodipuro][silsilah]
 
 ## Garwo
 
@@ -177,6 +179,7 @@ Keterangan: Sebelum Eyang Gitodipuro kromo dengan isteri 1 s/d 4 beliau sebenarn
 		*	Istri: ♀ Woro Kartini (Lihat: Gitosaputro)
 
 [up]: https://github.com/epsi-rns/gitodipuro/blob/master/README.md
+[silsilah]: https://github.com/epsi-rns/gitodipuro/blob/master/silsilah.md
 
 [garwo]: https://github.com/epsi-rns/gitodipuro/blob/master/source/svg/garwo.png
 

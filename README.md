@@ -2,6 +2,10 @@
 
 *	[Kata Pengantar][pengantar]
 
+## Fatwa Ibu/ Eyang Ponodiningrat I
+
+*	[Fatwa Ibu/ Eyang Ponodiningrat I][fatwa]
+
 ## Keterangan Kode/ Tanda-Tanda
 
 *	[Keterangan Kode/ Tanda-Tanda][kode]
@@ -35,10 +39,12 @@
 *	Anak: [A12.][A12] ♂ Brototenoyo
 	<br/><br/>
 
-[kode]: https://github.com/epsi-rns/gitodipuro/blob/master/kode.md
-[pengantar]: https://github.com/epsi-rns/gitodipuro/blob/master/pengantar.md
+[pengantar]:  https://github.com/epsi-rns/gitodipuro/blob/master/pengantar.md
+[silsilah]:   https://github.com/epsi-rns/gitodipuro/blob/master/silsilah.md
 [gitodipuro]: https://github.com/epsi-rns/gitodipuro/blob/master/gitodipuro.md
-[silsilah]: https://github.com/epsi-rns/gitodipuro/blob/master/silsilah.md
+
+[fatwa]:      https://github.com/epsi-rns/gitodipuro/blob/master/text/fatwa.md
+[kode]:       https://github.com/epsi-rns/gitodipuro/blob/master/text/kode.md
 
 
 [A01]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A01.md
