@@ -1,5 +1,9 @@
 ## Sunan Giri
 
+![Dari Sunan Giri][sunan-giri]
+
+Garwo Eyang Kartononagoro adalah Cucu Sinuwun Seda Krapyak Raja Mataram (K. Ratu Emas Sekar).
+
 ## Kyai Gulu
 
 ![Dari Kyai Gulu][kyai-gulu]
@@ -46,6 +50,7 @@ Keterangan di atas didapat penulis dari ceritera/ fatwa/ pangandiko:
 7.	Alm. Ibu Sastrosadarno
 
 
+[sunan-giri]: https://github.com/epsi-rns/gitodipuro/blob/master/source/svg/sunan-giri.png
 [kyai-gulu]:  https://github.com/epsi-rns/gitodipuro/blob/master/source/svg/kyai-gulu.png
 [moch-qorib]: https://github.com/epsi-rns/gitodipuro/blob/master/source/svg/moch-qorib.png
 [kyai-yahya]: https://github.com/epsi-rns/gitodipuro/blob/master/source/svg/kyai-yahya.png

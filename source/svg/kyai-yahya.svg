@@ -48,9 +48,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0742844"
-     inkscape:cx="110.34739"
-     inkscape:cy="449.14836"
+     inkscape:zoom="0.70553236"
+     inkscape:cx="147.22327"
+     inkscape:cy="330.70042"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -72,7 +72,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -612,7 +612,9 @@
          sodipodi:role="line"
          id="tspan4481"
          x="39.062614"
-         y="569.55688">Gitodipuro, Kliwon -</tspan></text>
+         y="569.55688"><tspan
+   style="font-weight:bold"
+   id="tspan3507">Gitodipuro</tspan>, Kliwon -</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1045,10 +1047,10 @@
          y="484.08932">Makam Brang Kidul Belakang Masjid</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="m 209.44173,496.36204 0,29.18588"
+       d="m 200.00001,496.36204 0,29.18588"
        id="path4302"
        inkscape:path-effect="#path-effect4304"
-       inkscape:original-d="m 209.44173,496.36204 c 0,9.72862 0,19.45725 0,29.18588"
+       inkscape:original-d="m 200.00001,496.36204 c 0,9.72862 0,19.45725 0,29.18588"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
