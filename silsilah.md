@@ -1,3 +1,9 @@
+## Navigasi
+
+[Halaman Utama][up] 
+
+[Gitodipuro][gitodipuro] 
+
 ## Sunan Giri
 
 ![Dari Sunan Giri][sunan-giri]
@@ -49,6 +55,8 @@ Keterangan di atas didapat penulis dari ceritera/ fatwa/ pangandiko:
 
 7.	Alm. Ibu Sastrosadarno
 
+[up]: https://github.com/epsi-rns/gitodipuro/blob/master/README.md
+[gitodipuro]: https://github.com/epsi-rns/gitodipuro/blob/master/gitodipuro.md
 
 [sunan-giri]: https://github.com/epsi-rns/gitodipuro/blob/master/source/svg/sunan-giri.png
 [kyai-gulu]:  https://github.com/epsi-rns/gitodipuro/blob/master/source/svg/kyai-gulu.png

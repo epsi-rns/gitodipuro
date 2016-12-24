@@ -1,3 +1,7 @@
+## Navigasi
+
+[Halaman Utama][up] 
+
 ## Garwo
 
 ![Garwo][garwo]
@@ -171,6 +175,8 @@ Keterangan: Sebelum Eyang Gitodipuro kromo dengan isteri 1 s/d 4 beliau sebenarn
 	*	Suami: ♂ Brototenoyo
 	*	Anak: [A12B01.][A12B01] ♂ Ibnu Subroto
 		*	Istri: ♀ Woro Kartini (Lihat: Gitosaputro)
+
+[up]: https://github.com/epsi-rns/gitodipuro/blob/master/README.md
 
 [garwo]: https://github.com/epsi-rns/gitodipuro/blob/master/source/svg/garwo.png
 

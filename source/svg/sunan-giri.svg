@@ -22,6 +22,34 @@
   <defs
      id="defs4">
     <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3443"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3437"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3429"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3421"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3413"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3405"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3397"
+       is_visible="true" />
+    <inkscape:path-effect
        is_visible="true"
        id="path-effect3509"
        effect="spiro" />
@@ -52,9 +80,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.78188868"
-     inkscape:cx="123.64921"
-     inkscape:cy="381.35501"
+     inkscape:zoom="0.56907641"
+     inkscape:cx="180.75482"
+     inkscape:cy="336.68951"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -103,324 +131,289 @@
          x="154.83235"
          id="tspan4521"
          sodipodi:role="line" /></text>
-    <g
-       id="g3517">
-      <rect
-         y="1001.862"
-         x="90.5"
-         height="50"
-         width="199"
-         id="rect4237"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="199.91943"
-         y="1019.5568"
-         id="text4239"
-         sodipodi:linespacing="125%"><tspan
-           y="1019.5568"
-           x="199.91943"
-           id="tspan4241"
-           sodipodi:role="line">Ki Ageng Gulu/Panggulu</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text4531"
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4237"
+       width="199"
+       height="50"
+       x="90.5"
+       y="1001.862" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4239"
+       y="1019.5568"
+       x="189.91943"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan4241"
+         x="189.91943"
+         y="1019.5568">Ki Ageng Gulu/Panggulu</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="189.9231"
+       y="1044.5573"
+       id="text4531"
+       sodipodi:linespacing="125%"><tspan
          y="1044.5573"
-         x="199.9231"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan4535"
-           x="199.9231"
-           y="1044.5573">Pangulu di Lawean</tspan></text>
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-         d="m 190,972.36802 0,28.23898"
-         id="path3507"
-         inkscape:path-effect="#path-effect3509"
-         inkscape:original-d="m 190,972.36802 c 0,9.41296 0,18.82604 0,28.23898"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g3525"
-       transform="translate(0,-79.99997)">
-      <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect3527"
-         width="199"
-         height="50"
-         x="90.5"
-         y="1001.862" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3529"
-         y="1019.5568"
-         x="199.91943"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan3531"
-           x="199.91943"
-           y="1019.5568">Tmg. Kartonagoro</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="199.9231"
-         y="1044.5573"
-         id="text3533"
-         sodipodi:linespacing="125%"><tspan
-           y="1044.5573"
-           x="199.9231"
-           id="tspan3535"
-           sodipodi:role="line">Ki Ageng Ketib Pati</tspan></text>
-      <path
-         inkscape:connector-curvature="0"
-         inkscape:original-d="m 190,972.36802 c 0,9.41296 0,18.82604 0,28.23898"
-         inkscape:path-effect="#path-effect3509"
-         id="path3537"
-         d="m 190,972.36802 0,28.23898"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
-    </g>
-    <g
-       id="g3539"
-       transform="translate(0,-159.99997)">
-      <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect3541"
-         width="199"
-         height="50"
-         x="90.5"
-         y="1001.862" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3543"
-         y="1019.5568"
-         x="199.91943"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan3545"
-           x="199.91943"
-           y="1019.5568">Adipati Mandurorejo</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="199.9231"
-         y="1044.5573"
-         id="text3547"
-         sodipodi:linespacing="125%"><tspan
-           y="1044.5573"
-           x="199.9231"
-           id="tspan3549"
-           sodipodi:role="line">Kaliwungu</tspan></text>
-      <path
-         inkscape:connector-curvature="0"
-         inkscape:original-d="m 190,972.36802 c 0,9.41296 0,18.82604 0,28.23898"
-         inkscape:path-effect="#path-effect3509"
-         id="path3551"
-         d="m 190,972.36802 0,28.23898"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
-    </g>
-    <g
-       transform="translate(0,-239.99997)"
-       id="g3553">
-      <rect
-         y="1001.862"
-         x="90.5"
-         height="50"
-         width="199"
-         id="rect3555"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="199.91943"
-         y="1019.5568"
-         id="text3557"
-         sodipodi:linespacing="125%"><tspan
-           y="1019.5568"
-           x="199.91943"
-           id="tspan3559"
-           sodipodi:role="line">Ki Ageng Juru Martani</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text3561"
-         y="1044.5573"
-         x="199.9231"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan3563"
-           x="199.9231"
-           y="1044.5573">Adipati Mondoroko</tspan></text>
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-         d="m 190,972.36802 0,28.23898"
-         id="path3565"
-         inkscape:path-effect="#path-effect3509"
-         inkscape:original-d="m 190,972.36802 c 0,9.41296 0,18.82604 0,28.23898"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g3567"
-       transform="translate(0,-319.99997)">
-      <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect3569"
-         width="199"
-         height="50"
-         x="90.5"
-         y="1001.862" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3571"
-         y="1019.5568"
-         x="199.91943"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan3573"
-           x="199.91943"
-           y="1019.5568">Ki Ageng Pakeringan</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="199.9231"
-         y="1044.5573"
-         id="text3575"
-         sodipodi:linespacing="125%"><tspan
-           y="1044.5573"
-           x="199.9231"
-           id="tspan3577"
-           sodipodi:role="line">Pangeran Haryo Sobo</tspan></text>
-      <path
-         inkscape:connector-curvature="0"
-         inkscape:original-d="m 190,972.36802 c 0,9.41296 0,18.82604 0,28.23898"
-         inkscape:path-effect="#path-effect3509"
-         id="path3579"
-         d="m 190,972.36802 0,28.23898"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
-    </g>
-    <g
-       transform="translate(0,-374.99997)"
-       id="g3581">
-      <rect
-         y="1001.862"
-         x="90.5"
-         height="25"
-         width="199"
-         id="rect3583"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="199.91943"
-         y="1019.5568"
-         id="text3585"
-         sodipodi:linespacing="125%"><tspan
-           y="1019.5568"
-           x="199.91943"
-           id="tspan3587"
-           sodipodi:role="line">Sunan Giri IV</tspan></text>
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-         d="m 190,972.36802 0,28.23898"
-         id="path3593"
-         inkscape:path-effect="#path-effect3509"
-         inkscape:original-d="m 190,972.36802 c 0,9.41296 0,18.82604 0,28.23898"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g3595"
-       transform="translate(0,-429.99997)">
-      <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect3597"
-         width="199"
-         height="25"
-         x="90.5"
-         y="1001.862" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3599"
-         y="1019.5568"
-         x="199.91943"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan3601"
-           x="199.91943"
-           y="1019.5568">Sunan Giri III</tspan></text>
-      <path
-         inkscape:connector-curvature="0"
-         inkscape:original-d="m 190,972.36802 c 0,9.41296 0,18.82604 0,28.23898"
-         inkscape:path-effect="#path-effect3509"
-         id="path3603"
-         d="m 190,972.36802 0,28.23898"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
-    </g>
-    <g
-       transform="translate(0,-484.99997)"
-       id="g3605">
-      <rect
-         y="1001.862"
-         x="90.5"
-         height="25"
-         width="199"
-         id="rect3607"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="199.91943"
-         y="1019.5568"
-         id="text3609"
-         sodipodi:linespacing="125%"><tspan
-           y="1019.5568"
-           x="199.91943"
-           id="tspan3611"
-           sodipodi:role="line">Sunan Giri II</tspan></text>
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-         d="m 190,972.36802 0,28.23898"
-         id="path3613"
-         inkscape:path-effect="#path-effect3509"
-         inkscape:original-d="m 190,972.36802 c 0,9.41296 0,18.82604 0,28.23898"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="translate(0,-564.99997)"
-       id="g3615">
-      <rect
-         y="1001.862"
-         x="90.5"
-         height="50"
-         width="199"
-         id="rect3617"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="199.91943"
-         y="1019.5568"
-         id="text3619"
-         sodipodi:linespacing="125%"><tspan
-           y="1019.5568"
-           x="199.91943"
-           id="tspan3621"
-           sodipodi:role="line">Sunan Giri I</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text3623"
-         y="1044.5573"
-         x="199.9231"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan3625"
-           x="199.9231"
-           y="1044.5573">Prabu Satmoko</tspan></text>
-    </g>
+         x="189.9231"
+         id="tspan4535"
+         sodipodi:role="line">Pangulu di Lawean</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:original-d="m 190,972.36802 c 0,9.41296 0,18.82604 0,28.23898"
+       inkscape:path-effect="#path-effect3397"
+       id="path3507"
+       d="m 190,972.36802 0,28.23898"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+    <rect
+       y="921.862"
+       x="90.5"
+       height="50"
+       width="199"
+       id="rect3527"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="190.35156"
+       y="939.55682"
+       id="text3529"
+       sodipodi:linespacing="125%"><tspan
+         y="939.55682"
+         x="190.35156"
+         id="tspan3531"
+         sodipodi:role="line">Tmg. Kartonagoro</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3533"
+       y="964.55725"
+       x="190"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan3535"
+         x="190"
+         y="964.55725">Ki Ageng Ketib Pati</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 190,892.36805 0,28.23898"
+       id="path3537"
+       inkscape:path-effect="#path-effect3405"
+       inkscape:original-d="m 190,892.36805 c 0,9.41296 0,18.82604 0,28.23898"
+       inkscape:connector-curvature="0" />
+    <rect
+       y="841.862"
+       x="90.5"
+       height="50"
+       width="199"
+       id="rect3541"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="190.28931"
+       y="859.55682"
+       id="text3543"
+       sodipodi:linespacing="125%"><tspan
+         y="859.55682"
+         x="190.28931"
+         id="tspan3545"
+         sodipodi:role="line">Adipati Mandurorejo</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3547"
+       y="884.55725"
+       x="189.91943"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan3549"
+         x="189.91943"
+         y="884.55725">Kaliwungu</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 190,812.36805 0,28.23898"
+       id="path3551"
+       inkscape:path-effect="#path-effect3413"
+       inkscape:original-d="m 190,812.36805 c 0,9.41296 0,18.82604 0,28.23898"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3555"
+       width="199"
+       height="50"
+       x="90.5"
+       y="761.862" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3557"
+       y="779.55682"
+       x="190"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan3559"
+         x="190"
+         y="779.55682">Ki Ageng Juru Martani</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="190.28931"
+       y="804.55725"
+       id="text3561"
+       sodipodi:linespacing="125%"><tspan
+         y="804.55725"
+         x="190.28931"
+         id="tspan3563"
+         sodipodi:role="line">Adipati Mondoroko</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:original-d="m 190,732.36805 c 0,9.41296 0,18.82604 0,28.23898"
+       inkscape:path-effect="#path-effect3421"
+       id="path3565"
+       d="m 190,732.36805 0,28.23898"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+    <rect
+       y="681.862"
+       x="90.5"
+       height="50"
+       width="199"
+       id="rect3569"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="189.9231"
+       y="699.55682"
+       id="text3571"
+       sodipodi:linespacing="125%"><tspan
+         y="699.55682"
+         x="189.9231"
+         id="tspan3573"
+         sodipodi:role="line">Ki Ageng Pakeringan</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3575"
+       y="724.55725"
+       x="189.87915"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan3577"
+         x="189.87915"
+         y="724.55725">Pangeran Haryo Sobo</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 190,652.36805 0,28.23898"
+       id="path3579"
+       inkscape:path-effect="#path-effect3429"
+       inkscape:original-d="m 190,652.36805 c 0,9.41296 0,18.82604 0,28.23898"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3583"
+       width="199"
+       height="25"
+       x="90.5"
+       y="626.862" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3585"
+       y="644.55682"
+       x="189.74365"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan3587"
+         x="189.74365"
+         y="644.55682">Sunan Giri IV</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:original-d="m 190,597.36805 c 0,9.41296 0,18.82604 0,28.23898"
+       inkscape:path-effect="#path-effect3437"
+       id="path3593"
+       d="m 190,597.36805 0,28.23898"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+    <rect
+       y="571.862"
+       x="90.5"
+       height="25"
+       width="199"
+       id="rect3597"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="190.2417"
+       y="589.55682"
+       id="text3599"
+       sodipodi:linespacing="125%"><tspan
+         y="589.55682"
+         x="190.2417"
+         id="tspan3601"
+         sodipodi:role="line">Sunan Giri III</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 190,542.36805 0,28.23898"
+       id="path3603"
+       inkscape:path-effect="#path-effect3443"
+       inkscape:original-d="m 190,542.36805 c 0,9.41296 0,18.82604 0,28.23898"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3607"
+       width="199"
+       height="25"
+       x="90.5"
+       y="516.862" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3609"
+       y="534.55682"
+       x="190.2417"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan3611"
+         x="190.2417"
+         y="534.55682">Sunan Giri II</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:original-d="m 190,487.36805 c 0,9.41296 0,18.82604 0,28.23898"
+       inkscape:path-effect="#path-effect3509"
+       id="path3613"
+       d="m 190,487.36805 0,28.23898"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3617"
+       width="199"
+       height="50"
+       x="90.5"
+       y="436.86203" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3619"
+       y="454.55685"
+       x="190.2417"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan3621"
+         x="190.2417"
+         y="454.55685">Sunan Giri I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="189.87915"
+       y="479.55728"
+       id="text3623"
+       sodipodi:linespacing="125%"><tspan
+         y="479.55728"
+         x="189.87915"
+         id="tspan3625"
+         sodipodi:role="line">Prabu Satmoko</tspan></text>
   </g>
 </svg>
