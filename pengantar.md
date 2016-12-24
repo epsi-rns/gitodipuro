@@ -16,11 +16,11 @@ Kesepakatan kami, Ayunda Pnodiningrat mengumpulkan data dari Putro Wayah Eyang G
 
 Pengumpulan data terus berlanjut, mulai bulan Februari 1996 saya menyusunnya dengan sistem pengelompokan dari Putra-Putri Eyang Gitodipuro. Karena jumlah putra putrinya 12 orang, maka kami buat menjadi 12 kelompok.
 
-Sampai akhir Mei 1996 ternyata masih banyak data yang belum masuk. Akhitnya diputuskan untuk langsung MENYUSUN dari DATa yang telh ada. Bagi yang belum ada datanya terpaksa ditinggal dengan harapan pada tanggal 11 Juli 1996 BUKU SILSILAH tersebut sudah jadi, seiring dengan selesainya RENOVASI MAKAM dan sebagai kenangan bagi diri saya, yang pada tanggal 11 Juli 1996 genap berusia 66 tahun.
+Sampai akhir Mei 1996 ternyata masih banyak data yang belum masuk. Akhitnya diputuskan untuk langsung MENYUSUN dari DATA yang telah ada. Bagi yang belum ada datanya terpaksa ditinggal dengan harapan pada tanggal 11 Juli 1996 BUKU SILSILAH tersebut sudah jadi, seiring dengan selesainya RENOVASI MAKAM dan sebagai kenangan bagi diri saya, yang pada tanggal 11 Juli 1996 genap berusia 66 tahun.
 
-Sebenarnya ingin saya sampaikan kepada Generasi Penerus , tentang langkah-langkah dan tindakan, perjuangan Eyang-Eyang kita di masa penjajahan Belanda, Maupun dalam membantu sekuat tenaga bilamana kerajaan Pajang, Mataram, Kartasura, Surakarta dan Jogyakarta dilanda kemelut, Eyang-eyang selalu tampil untuk ikut mengatasi, diminta atau tidak oleh penguasa. Untuk itu dalam lembar yang lain saja bilamana Allah SWT mengijinkan, akan kami paparkan.
+Sebenarnya ingin saya sampaikan kepada Generasi Penerus, tentang langkah-langkah dan tindakan, perjuangan Eyang-Eyang kita di masa penjajahan Belanda, Maupun dalam membantu sekuat tenaga bilamana kerajaan Pajang, Mataram, Kartasura, Surakarta dan Jogyakarta dilanda kemelut, Eyang-eyang selalu tampil untuk ikut mengatasi, diminta atau tidak oleh penguasa. Untuk itu dalam lembar yang lain saja bilamana Allah SWT mengijinkan, akan kami paparkan.
 
-Akhirnya bilamana saya dalam menyususn kata dan data banyak kesalahan dan kekurangannya harap dimaafkan serta dengan harapan data perbaikan dan kekurangan dikirim kepada saya untuk melengkapi kekurangannya.
+Akhirnya bilamana saya dalam menyusun kata dan data banyak kesalahan dan kekurangannya harap dimaafkan serta dengan harapan data perbaikan dan kekurangan dikirim kepada saya untuk melengkapi kekurangannya.
 
 Wassalam
 
