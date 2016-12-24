@@ -1,5 +1,10 @@
 ## Kata Pengantar
 
+## Keterangan Kode/ Tanda-Tanda
+
+*	[Keterangan Kode/ Tanda-Tanda][kode]
+
+
 ## Silsilah
 
 *	[Diagram Silsilah Gitodipuro][silsilah]
@@ -29,6 +34,7 @@
 *	Anak: [A12.][A12] ♂ Brototenoyo
 	<br/><br/>
 
+[kode]: https://github.com/epsi-rns/gitodipuro/blob/master/kode.md
 [gitodipuro]: https://github.com/epsi-rns/gitodipuro/blob/master/gitodipuro.md
 [silsilah]: https://github.com/epsi-rns/gitodipuro/blob/master/silsilah.md
 
