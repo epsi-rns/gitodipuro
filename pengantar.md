@@ -30,3 +30,6 @@ Penulis
 
 
 Saswidodo MS.
+
+[up]: https://github.com/epsi-rns/gitodipuro/blob/master/README.md
+[gitodipuro]: https://github.com/epsi-rns/gitodipuro/blob/master/gitodipuro.md
