@@ -2,6 +2,8 @@
 
 ## Kyai H. Moch Qorib.
 
+![Dari Moch Qorib][moch-qorib]
+
 ## Kyai Haji Yahya
 
 ![Dari Kyai Yahya][kyai-yahya]
@@ -41,5 +43,5 @@ Keterangan di atas didapat penulis dari ceritera/ fatwa/ pangandiko:
 
 
 
-
+[moch-qorib]: https://github.com/epsi-rns/gitodipuro/blob/master/source/svg/moch-qorib.png
 [kyai-yahya]: https://github.com/epsi-rns/gitodipuro/blob/master/source/svg/kyai-yahya.png
