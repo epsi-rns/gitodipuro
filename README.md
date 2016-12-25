@@ -46,11 +46,11 @@
 *	Anak: [A12.][A12] ♂ Brototenoyo
 	<br/><br/>
 
-[pengantar]:  https://github.com/epsi-rns/gitodipuro/blob/master/pengantar.md
 [silsilah]:   https://github.com/epsi-rns/gitodipuro/blob/master/silsilah.md
 [gitodipuro]: https://github.com/epsi-rns/gitodipuro/blob/master/gitodipuro.md
 
 [kode]:          https://github.com/epsi-rns/gitodipuro/blob/master/text/kode.md
+[pengantar]:     https://github.com/epsi-rns/gitodipuro/blob/master/text/pengantar.md
 [fatwa]:         https://github.com/epsi-rns/gitodipuro/blob/master/text/fatwa.md
 [midjil]:        https://github.com/epsi-rns/gitodipuro/blob/master/text/midjil.md
 [sinom-1]:       https://github.com/epsi-rns/gitodipuro/blob/master/text/sinom-1.md

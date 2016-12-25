@@ -4,6 +4,8 @@
 
 [Gitodipuro][gitodipuro]
 
+Isih ana piweling sarana nganggo tembang patang pada Sinom.
+
 ## Sinom
 
 ### I.

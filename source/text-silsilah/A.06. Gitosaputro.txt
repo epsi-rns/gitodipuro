@@ -214,23 +214,8 @@
 │   ╞══ Istri: ♀ Hj. Riyanti Darussalam
 │   │
 │   ├── Anak: D.1. ♀ Dra. Alviani Rachmi Nurwijayanti MM 
-│   │   │
-│   │   ╞══ Suami: ♂ A. Yusuf, SE MM (alm)
-│   │   ├── Anak: E.1. ♀ Carissa Astri Ghassani
-│   │   ├── Anak: E.2. ♀ Wilona Tigita Atsarina
-│   │   │
-│   │   ╘══ Suami: ♂ Huseyn Sinan Basalan
-│   │
 │   ├── Anak: D.2. ♂ Ir. Betanto Rachmat Nurwidiadi
-│   │   ╞══ Istri: ♀ Lesti Viergiani, SE
-│   │   │
-│   │   ├── Anak: E.1. ♂ Aditya Widiadi
-│   │   ├── Anak: E.2. ♀ Via Azlia
-│   │   └── Anak: E.3. ♂ Fikri Albari
-│   │
 │   ├── Anak: D.3. ♂ Deltadi Rachman Nurwijayanto, SE MSi MSi Msi FRM
-│   │   ╘══ Istri: ♀ Linda Kartika Yahya, SE
-│   │
 │   └── Anak: D.4. ♂ Epsiarto Rizqi Nurwijayadi, ST
 │   
 ├── Anak: C.2. ♀ Dra. Hj. Darmastuti

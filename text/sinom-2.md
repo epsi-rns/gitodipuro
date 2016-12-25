@@ -6,7 +6,7 @@
 
 ## Sinom
 
-Petung wilujengan tinggal donya
+Petung wilujengan tinggal donya.
 
 	Siji-siji yen sur tanah,
 	Tiga-tiga tigang hari,
