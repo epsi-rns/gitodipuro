@@ -214,7 +214,7 @@
 │   ╞══ Istri: ♀ Hj. Riyanti Darussalam
 │   │
 │   ├── Anak: D.1. ♀ Dra. Alviani Rachmi Nurwijayanti MM 
-│   ├── Anak: D.2. ♂ Ir. Betanto Rachmat Nurwidiadi
+│   ├── Anak: D.2. ♂ Ir. Betanto Rachmat Nurwidiyadi
 │   ├── Anak: D.3. ♂ Deltadi Rachman Nurwijayanto, SE MSi MSi Msi FRM
 │   └── Anak: D.4. ♂ Epsiarto Rizqi Nurwijayadi, ST
 │   
