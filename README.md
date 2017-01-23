@@ -1,3 +1,10 @@
+## Edisi Cetak.
+
+Edisi cetak dari Silsilah Gitodipuro ini tersedia dalam format PDF.
+
+*	[gitodipuro-rewrite-1996.pdf][pdf]
+
+
 ## Kata Pengantar
 
 *	[Kata Pengantar][pengantar]
@@ -48,6 +55,8 @@
 
 [silsilah]:   https://github.com/epsi-rns/gitodipuro/blob/master/silsilah.md
 [gitodipuro]: https://github.com/epsi-rns/gitodipuro/blob/master/gitodipuro.md
+
+[pdf]: https://github.com/epsi-rns/gitodipuro/raw/master/source/pdf/gitodipuro-1996-rewrite.pdf
 
 [kode]:          https://github.com/epsi-rns/gitodipuro/blob/master/text/kode.md
 [pengantar]:     https://github.com/epsi-rns/gitodipuro/blob/master/text/pengantar.md
