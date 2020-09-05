@@ -12,7 +12,7 @@ Bermula pada pertemuan Kadang Kadeyan Kalioso, pada bulan Ruwah 1928 atau pada b
 
 Dengan lilalegawa saya sebagai penerus KADANG KADEYAN Trah KALIOSO menyanggupkan diri untuk membantu menyusun dan merakit SILSILAH GITODIPURAN sesuai dengan sekelumit kemampuan maupun pengalaman saya di bidang KESILSILAHAN dan pengetahuan tentang AHLI WARIS KALIOSO.
 
-Kesepakatan kami, Ayunda Pnodiningrat mengumpulkan data dari Putro Wayah Eyang Gitodipuro dan saya mengambil dari data yang ada dari buku-buku Silsilah Kalioso, antara lain Buku Silsilah sususnan Bapak Sasmoyo Mangunsutomo, susunan Bapak Darmowiyoto, susunan Panitia Silsilah Leluhur Kalioso, Silsilah Onggowangsan, Silsilah Gagatan dsb
+Kesepakatan kami, Ayunda Ponodiningrat mengumpulkan data dari Putro Wayah Eyang Gitodipuro dan saya mengambil dari data yang ada dari buku-buku Silsilah Kalioso, antara lain Buku Silsilah sususnan Bapak Sasmoyo Mangunsutomo, susunan Bapak Darmowiyoto, susunan Panitia Silsilah Leluhur Kalioso, Silsilah Onggowangsan, Silsilah Gagatan dsb
 
 Pengumpulan data terus berlanjut, mulai bulan Februari 1996 saya menyusunnya dengan sistem pengelompokan dari Putra-Putri Eyang Gitodipuro. Karena jumlah putra putrinya 12 orang, maka kami buat menjadi 12 kelompok.
 
